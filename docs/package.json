@@ -1,0 +1,25 @@
+{
+  "name": "100-days-log",
+  "version": "0.1.0",
+  "description": "This is v5 of my code log. It incorporates a grunt automation task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-priest/100-days-log.git"
+  },
+  "author": "James Priest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-priest/100-days-log/issues"
+  },
+  "homepage": "https://github.com/james-priest/100-days-log#readme",
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-responsive-images": "^1.10.1"
+  }
+}
