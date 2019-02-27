@@ -7,7 +7,7 @@ link_color: '#1a7f6d'
 ---
 <!-- markdownlint-disable MD022 MD024 MD032 MD033 -->
 
-[<-- back to Log Table of Contents](../index.html)
+[<-- back to Table of Contents](./index.html)
 # James Priest
 
 ## 100 Days of Code
