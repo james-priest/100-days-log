@@ -2,7 +2,7 @@
 
 This repo is used to track progress for Alexander Kallaway's 100 Days of Code Challenge ([https://100daysofcode.com](https://100daysofcode.com)).
 
-It's available to anyone that would also like to track their progress using GitHub Pages. It uses a customized version of the [Leap day theme](https://github.com/pages-themes/leap-day) ([preview here](https://pages-themes.github.io/leap-day/)) and allows simple customization of page titles & colors schemes.
+It's available to anyone that would also like to track their progress using GitHub Pages. It uses a customized version of the [Leap day theme](https://github.com/pages-themes/leap-day) (see [preview here](https://pages-themes.github.io/leap-day/)) and allows simple customization of page titles & colors schemes.
 
 Table of Contents
 
@@ -157,34 +157,30 @@ In order to view your site you'll need to go into your repository's Settings and
 
     ![settings](./docs/src/fixed/docs-folder.jpg)
 
-This will refresh the page and start the build process. There is no need to choose a theme since this will be picked up from the _config.yml file.
+    This will refresh the page and start the build process. There is no need to choose a theme since this will be picked up from the `_config.yml` file.
 
-You can navigate back down to the GitHub Pages section to view or click the link to the new site. This might take a minute or two to generate.
+4. You can navigate back down to the GitHub Pages section to view or click the link to the new site. This might take a minute or two to generate.
 
-![settings](./docs/src/fixed/pages-link.jpg)
+    ![settings](./docs/src/fixed/pages-link.jpg)
 
 ## Optimize Images
 
-You can optimize jpg and png images with the provided automation task.
-
-A grunt task is provided that will monitor a watch folder and create a small and large optimized version of any image files copied to that folder.
-
-This will help keep file sizes small for a log that may eventually contain 100+ images.
-
-The small image is sized to display properly within the template's page width. The large image is used as an expanded view if a user clicks on the small image. Both are optimized for size.
-
-Here are the source and destination folders. Once the Grunt task is running, any image copied to source will be optimized and place in output.
-
-| Source folder | Output folder |
-| --- | --- |
-| `/docs/src/images/` | `/docs/assets/images/` |
+A grunt task is provided that will monitor a "watch folder" and create optimized versions of any image files copied to that folder. This works for both JPGs and PNGs. and will help keep file sizes small for a log that may eventually contain 100+ images.
 
 The files will be sized at:
 
 - small (570 width)
 - large (800 width)
 
-For example, an image named `my-file.jpg` will be created as follows.
+The small image is sized to display properly within the template's page width. The large image is used as an expanded view if a user clicks on the small image. Both are optimized for size.
+
+Once the Grunt task is running, any image copied to source will be optimized and place in output. Here are the source and output folder paths.
+
+| Source folder | Output folder |
+| --- | --- |
+| `/docs/src/images/` | `/docs/assets/images/` |
+
+An image named `my-file.jpg` will be created as follows.
 
 | source | small output (570w) | large output (800w) |
 | --- | --- | --- |
@@ -197,7 +193,7 @@ The images can then be linked to in the output directory from the code log.
 Run once to install package dependencies.
 
 1. Navigate to the `docs` folder off of the root directory.
-2. Install npm dependencies
+2. Install npm dependencies.
 
     ```bash
     npm install
@@ -208,7 +204,7 @@ Run once to install package dependencies.
 Run each time to enable image optimization with watch folder.
 
 1. Navigate to the `docs` folder off of the root directory.
-2. Run grunt task
+2. Run grunt .
 
     ```bash
     npx grunt
