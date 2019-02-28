@@ -2,9 +2,7 @@
 
 This repo is used to track progress for Alexander Kallaway's 100 Days of Code Challenge ([https://100daysofcode.com](https://100daysofcode.com)).
 
-It's available to anyone that would also like to track their progress using GitHub Pages. It uses a customized version of the [Leap day theme](https://github.com/pages-themes/leap-day) (see [preview here](https://pages-themes.github.io/leap-day/)) and allows simple customization of page titles & colors schemes.
-
-Table of Contents
+It's made available to anyone that would like to fork this repo in order to also track their progress using GitHub Pages. It uses a customized version of the [Leap day theme](https://github.com/pages-themes/leap-day) (see preview [here](https://pages-themes.github.io/leap-day/)) and allows simple customization of page titles & colors schemes.
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
@@ -27,7 +25,7 @@ Table of Contents
 
 GitHub Pages is a static site hosting service provided by GitHub that takes Markdown files, combines them with a template, and turns them to static HTML.
 
-With GitHub Pages enabled, code logs written in Markdown are converted to html when pushed to GitHib.
+With GitHub Pages enabled, code logs written in Markdown are converted to html when pushed to GitHub.
 
 ## Getting Started
 
@@ -121,7 +119,7 @@ Serves, builds and auto-reloads the page when whenever a source file changes.
 
 ## Deployment
 
-Once the changes are completed it can be deployed to GitHub with a commit and push.
+Once all changes are completed and you are satisfied that everything looks fine, the site can be deployed to GitHub with a commit and push.
 
 1. Add all files to staging.
 
@@ -129,7 +127,7 @@ Once the changes are completed it can be deployed to GitHub with a commit and pu
     git add .
     ```
 
-2. Commit with a meaningful message such as "Day 1: ..." or "r1d1: ...".
+2. Commit with a meaningful message such as "Day 1: Title of my first entry" or "r1d1: What I did today".
 
     ```bash
     git commit -m "Day 1: Deploy new log"
@@ -140,6 +138,8 @@ Once the changes are completed it can be deployed to GitHub with a commit and pu
     ```bash
     git push
     ```
+
+Once the changes are posted it takes GitHub 1-3 minutes to generate the site.
 
 ## Enable GitHub Pages
 

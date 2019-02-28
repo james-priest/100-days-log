@@ -34,7 +34,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-<!-- 
+<!--
 ## 100. Redux - UI + State
 ### Day 100: February 24, 2018 - Sunday
 
