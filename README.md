@@ -1,8 +1,27 @@
-# 100 Days Log
+# 100 Days Log <!-- omit in toc -->
 
 This repo is used to track progress for Alexander Kallaway's 100 Days of Code Challenge ([https://100daysofcode.com](https://100daysofcode.com)).
 
-It's available to anyone that would also like to track their progress using GitHub Pages. It uses a customized version of the [Leap day theme](https://github.com/pages-themes/leap-day) ([preview](https://pages-themes.github.io/leap-day/)) and allows simple customization of page titles & colors schemes.
+It's available to anyone that would also like to track their progress using GitHub Pages. It uses a customized version of the [Leap day theme](https://github.com/pages-themes/leap-day) ([preview here](https://pages-themes.github.io/leap-day/)) and allows simple customization of page titles & colors schemes.
+
+Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [Serve site](#serve-site)
+  - [Serve site (with with live-reload)](#serve-site-with-with-live-reload)
+- [Deployment](#deployment)
+- [Enable GitHub Pages](#enable-github-pages)
+- [Optimize Images](#optimize-images)
+  - [Grunt Install](#grunt-install)
+  - [Grunt Usage](#grunt-usage)
+  - [Embedding Images in Log](#embedding-images-in-log)
+- [Log Customization](#log-customization)
+- [Miscellaneous](#miscellaneous)
+  - [Behind the scenes](#behind-the-scenes)
 
 ## Overview
 
@@ -67,6 +86,7 @@ Fork and clone the repo, then use Bundler to install the gem dependencies.
     > Resolving dependencies...
 
 ## Usage
+
 You can serve the site and enable live-reload if desired. [Additional command line options](https://jekyllrb.com/docs/configuration/options/) exist to changes things such as port, hostname, url, etc.
 
 ### Serve site
@@ -99,21 +119,67 @@ Serves, builds and auto-reloads the page when whenever a source file changes.
 
      [http://localhost:4000](http://localhost:4000)
 
-## Additional Automation Tasks
+## Deployment
 
-### Optimize images (jpg & png)
+Once the changes are completed it can be deployed to GitHub with a commit and push.
 
-A grunt task is provided that will monitor a watch folder and create a small and large optimized version of any jpg or png files copied to that folder.
+1. Add all files to staging.
+
+    ```bash
+    git add .
+    ```
+
+2. Commit with a meaningful message such as "Day 1: ..." or "r1d1: ...".
+
+    ```bash
+    git commit -m "Day 1: Deploy new log"
+    ```
+
+3. Push changes to GitHub
+
+    ```bash
+    git push
+    ```
+
+## Enable GitHub Pages
+
+In order to view your site you'll need to go into your repository's Settings and enable GitHub Pages.
+
+1. Choose Settings from repo menu.
+
+    ![settings](./docs/src/fixed/settings.jpg)
+
+2. Click the button under Source.
+
+    ![settings](./docs/src/fixed/source.jpg)
+
+3. Choose "master branch /docs folder".
+
+    ![settings](./docs/src/fixed/docs-folder.jpg)
+
+This will refresh the page and start the build process. There is no need to choose a theme since this will be picked up from the _config.yml file.
+
+You can navigate back down to the GitHub Pages section to view or click the link to the new site. This might take a minute or two to generate.
+
+![settings](./docs/src/fixed/pages-link.jpg)
+
+## Optimize Images
+
+You can optimize jpg and png images with the provided automation task.
+
+A grunt task is provided that will monitor a watch folder and create a small and large optimized version of any image files copied to that folder.
+
+This will help keep file sizes small for a log that may eventually contain 100+ images.
 
 The small image is sized to display properly within the template's page width. The large image is used as an expanded view if a user clicks on the small image. Both are optimized for size.
 
-Here are the source and destination folders. Once the Grunt task in running, any image copied to source will be optimized and place in output.
+Here are the source and destination folders. Once the Grunt task is running, any image copied to source will be optimized and place in output.
 
 | Source folder | Output folder |
 | --- | --- |
 | `/docs/src/images/` | `/docs/assets/images/` |
 
-The files are will be sized at
+The files will be sized at:
 
 - small (570 width)
 - large (800 width)
@@ -126,7 +192,7 @@ For example, an image named `my-file.jpg` will be created as follows.
 
 The images can then be linked to in the output directory from the code log.
 
-#### Grunt Install
+### Grunt Install
 
 Run once to install package dependencies.
 
@@ -137,7 +203,7 @@ Run once to install package dependencies.
     npm install
     ```
 
-#### Grunt Usage
+### Grunt Usage
 
 Run each time to enable image optimization with watch folder.
 
@@ -148,7 +214,7 @@ Run each time to enable image optimization with watch folder.
     npx grunt
     ```
 
-#### Embedding Images in Log
+### Embedding Images in Log
 
 Use this format to embed a **simple, non-clickable** image.
 
@@ -162,30 +228,9 @@ Use this format to embed a **clickable image** which displays a larger version o
 [![image alt text](assets/images/my-file_small.jpg)](assets/images/my-file.jpg)
 ```
 
-## Customization
+## Log Customization
 
-THIS SECTION IS A WIP...
-
-### Update Log
-
-Log files exist in the `/docs` folder. Here's how a sample set of files would be converted.
-
-- README.md -> index.html
-- log1.md -> log1.html
-- log2.md -> log2.html
-- notes.md -> notes.html
-
-### Deploy site
-
-Once the log look fine then it can be deployed with a commit and push.
-
-```bash
-git add .
-git commit -m "Day 1: Deploy new log"
-git push
-```
-
-## Customize
+THIS SECTION IS A WIP... and still needs to be completed.
 
 Various things can be customized including:
 
@@ -195,3 +240,32 @@ Various things can be customized including:
 - Page background color
 - Link color
 - Favicon
+
+## Miscellaneous
+
+### Behind the scenes
+
+Here's how a sample set of Markdown files would be converted.
+
+- README.md -> index.html
+- log1.md -> log1.html
+- log2.md -> log2.html
+- notes.md -> notes.html
+
+Initially all log files are placed in the `/docs` folder. This will create the html files in the root of your GitHub Pages repo site.
+
+Here's the mapping.
+
+| GitHub Repo source | GitHub Pages URL |
+| --- | --- |
+| `https://github.com/<username>/100-days-log/docs/` | `https://<username>.github.io/100-days-log/` |
+
+Here are some sample URLs.
+
+| GitHub Repo source | GitHub Pages URL |
+| --- | --- |
+| `/docs/README.md` | `https://<username>.github.io/100-days-log/index.html` |
+| `/docs/log1.md` | `https://<username>.github.io/100-days-log/log1.html` |
+| `/docs/my-notes.md` | `https://<username>.github.io/100-days-log/my-notes.html` |
+| `/docs/logs/page1.md` | `https://<username>.github.io/100-days-log/logs/page1.html` |
+
