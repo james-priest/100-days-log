@@ -34,47 +34,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-<!--
-## 100. Redux - UI + State
-### Day 100: February 24, 2018 - Sunday
+## 2. Redux, JS, & HTML UI
+### Day 2: February 28, 2018 - Thursday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr31-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr31.jpg)<br>
-GitHub Repo: [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master)
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr32-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr32.jpg)<br>
+**Live Demo:** [Redux Todo Goals App](https://codesandbox.io/s/42zkzvrn14?fontsize=14) on CodeSandbox
 
 **Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
 
-This lesson focused on connecting a UI to our store. It provided the following:
+This lesson focused implementing Redux with vanilla JavaScript and a simple HTML UI.
 
-- Clicking the Add button dispatches AddTodoAction and adds item to the store.
-- Store Subscription allows updates to the DOM with new state whenever state changes.
-- Marking an item as complete dispatches the toggleTodoAction.
-- Clicking delete button dispatches removeTodoAction.
-- Similar functionality was created for Goals.
+The kept the focus limited to:
 
-Here's the subscribe code that loops through each store item and updates the DOM
+- The store
+- Getting state
+- Subscribing to state changes
+- Dispatching actions
 
-```js
-store.subscribe(() => {
-  const { todos, goals } = store.getState();
+As part of the t
 
-  document.getElementById('goals').innerHTML = '';
-  document.getElementById('todos').innerHTML = '';
-
-  todos.forEach(addTodoToDOM); // todos.forEach(todo => addTodoToDOM(todo));
-  goals.forEach(addGoalToDOM); // goals.forEach(goal => addGoalToDOM(goal));
-});
-```
-
-You can read more in my notes: [Udacity React & Redux - 2. UI + Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#2-ui--redux)
+You can read more in my notes: [Udacity React & Redux - 2.4 Introducing Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#24-introducing-redux)
 
 **Links:**
+- Live Demo - [Redux Todo Goals App](https://codesandbox.io/s/42zkzvrn14?fontsize=14) on CodeSandbox
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
 ---
- -->
 
 ## 1. Round 5 Code Log & Repo
 ### Day 1: February 26, 2019 - Tuesday
