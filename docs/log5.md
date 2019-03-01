@@ -53,8 +53,6 @@ The kept the focus limited to:
 - Subscribing to state changes
 - Dispatching actions
 
-As part of the t
-
 You can read more in my notes: [Udacity React & Redux - 2.4 Introducing Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#24-introducing-redux)
 
 **Links:**
