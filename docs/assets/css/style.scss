@@ -23,7 +23,6 @@ section a:hover { border-bottom: none; }
 input[type="checkbox"], input[type="radio"] {
     margin-right: 6px;
 }
-// Begin v3
 nav {
     overflow-y: auto;
     padding-right: 20px;
@@ -48,7 +47,6 @@ nav {
 ::-webkit-scrollbar-thumb:hover {
     background: #ddd; 
 }
-// End
 nav ul {
     width: 185px;
     padding-left: 52px;
@@ -77,12 +75,23 @@ section {
 }
 section h1:first-of-type {
     margin-top: 20px;
+    margin-bottom: 0;
+}
+section h1:first-of-type + p.toc {
+    margin: 0 0 10px;
+}
+section h1:first-of-type + p.toc + h2 {
+    margin-top: 20px;
 }
 section > :first-child {
     margin: 0 0 20px 0;
 }
 section>p {
     margin: 10px;
+}
+section > table {
+    width: calc(100% - 10px);
+    margin: 0 10px 20px;
 }
 hr { margin: 20px 0; }
 
@@ -101,9 +110,6 @@ h1, h2, h3, h2+p>strong {
 h1 {
     font-size: 1.8em;
     margin: 20px 0;
-}
-h1:first-of-type {
-    margin-top: 0;
 }
 h2 {
     font-size:1.5em;
