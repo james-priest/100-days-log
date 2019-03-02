@@ -1,7 +1,7 @@
 theme: jekyll-theme-leap-day
 title: 100 Days of Code Log
 description: by James Priest
-#google_analytics: UA-121627234-4
+google_analytics: UA-121627234-4
 
 exclude: [
   Gemfile,
