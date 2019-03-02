@@ -19,6 +19,7 @@ It's made available to anyone that would like to fork this repo in order to also
   - [Embedding Images in Log](#embedding-images-in-log)
 - [Log Customization](#log-customization)
 - [Miscellaneous](#miscellaneous)
+  - [Recommended Workflow](#recommended-workflow)
   - [Behind the scenes](#behind-the-scenes)
 
 ## Overview
@@ -239,6 +240,20 @@ Various things can be customized including:
 
 ## Miscellaneous
 
+### Recommended Workflow
+
+- VSCode extensions that I use for my log.
+  - Code Spell Checker
+  - Markdown All in Once
+  - Markdown Emoji
+  - Markdown Preview Git
+  - markdownlint - 
+
+1. Open folder
+2. Start up site in terminal
+3. Make changes
+4. other...
+
 ### Behind the scenes
 
 Here's how a sample set of Markdown files would be converted.
@@ -250,13 +265,15 @@ Here's how a sample set of Markdown files would be converted.
 
 Initially all log files are placed in the `/docs` folder. This will create the html files in the root of your GitHub Pages repo site.
 
+It is possible to create a folder structure to hold additional Markdown files. These would then be converted to HTML and hosted on GitHub Pages.
+
 Here's the mapping.
 
 | GitHub Repo source | GitHub Pages URL |
 | --- | --- |
 | `https://github.com/<username>/100-days-log/docs/` | `https://<username>.github.io/100-days-log/` |
 
-Here are some sample URLs.
+Here are some paths and their URL mapping.
 
 | GitHub Repo source | GitHub Pages URL |
 | --- | --- |
@@ -264,4 +281,5 @@ Here are some sample URLs.
 | `/docs/log1.md` | `https://<username>.github.io/100-days-log/log1.html` |
 | `/docs/my-notes.md` | `https://<username>.github.io/100-days-log/my-notes.html` |
 | `/docs/logs/page1.md` | `https://<username>.github.io/100-days-log/logs/page1.html` |
+| `/docs/school-notes/cs101.md` | `https://<username>.github.io/100-days-log/school-notes/cs101.html` |
 
