@@ -34,6 +34,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 3. Create Log Template Repo
+### Day 3: March 1, 2019 - Friday
+
+**Project:** 100 Days of Code Log  Template
+
+[![new code log](assets/images/day3-small.jpg)](assets/images/day3.jpg)
+
+**Progress:** Created a new GitHub repo for my 100 Days of Code Log Template project.
+
+I quickly realized that I needed to create a separate master template repo from the one I had my current log in.
+
+Separating the template from the log allows me to update my log without in affecting the template and update the template with affecting the log. This way anyone following changes on the template won't be notified on every log commit I make.
+
+Additionally, any changes to the template or template instructions can the be pulled down without overwriting my log entires.
+
+**Links:**
+- GitHub repo - [https://github.com/james-priest/100-days-log-template](https://github.com/james-priest/100-days-log-template)
+- Demo Site - [Sample Template Site](https://james-priest.github.io/100-days-log-template/log1.html)
+
+---
+
 ## 2. Redux, JS, & HTML UI
 ### Day 2: February 28, 2018 - Thursday
 
