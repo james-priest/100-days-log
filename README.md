@@ -1,4 +1,4 @@
-# 100 Days Log <!-- omit in toc -->
+# 100 Days Log Template<!-- omit in toc -->
 
 This repo is used to track progress for Alexander Kallaway's 100 Days of Code Challenge ([https://100daysofcode.com](https://100daysofcode.com)).
 
@@ -20,7 +20,7 @@ It's made available to anyone that would like to fork this repo in order to also
 - [Log Customization](#log-customization)
 - [Miscellaneous](#miscellaneous)
   - [Recommended Workflow](#recommended-workflow)
-  - [Behind the scenes](#behind-the-scenes)
+  - [Under the Hood](#under-the-hood)
 
 ## Overview
 
@@ -229,14 +229,18 @@ Use this format to embed a **clickable image** which displays a larger version o
 
 THIS SECTION IS A WIP... and still needs to be completed.
 
-Various things can be customized including:
+This is a list of items that can be customized at the top of each page.
 
 - Header text
 - Header description
 - Header background color
 - Page background color
 - Link color
-- Favicon
+
+These items can be customized for the site.
+
+- Favicon - replace icon in `docs/assets/images/icons/favicon.ico`
+- Heading text for default page - `/_config.yml`
 
 ## Miscellaneous
 
@@ -247,14 +251,15 @@ Various things can be customized including:
   - Markdown All in Once
   - Markdown Emoji
   - Markdown Preview Git
-  - markdownlint - 
+  - markdownlint
 
+<!-- 
 1. Open folder
 2. Start up site in terminal
 3. Make changes
-4. other...
+4. other... -->
 
-### Behind the scenes
+### Under the Hood
 
 Here's how a sample set of Markdown files would be converted.
 
