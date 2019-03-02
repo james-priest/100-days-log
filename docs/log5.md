@@ -7,8 +7,8 @@ link_color: '#1a7f6d'
 ---
 <!-- markdownlint-disable MD022 MD024 MD032 MD033 -->
 
-[<-- back to Table of Contents](./index.html)
 # James Priest
+<p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
 ## 100 Days of Code
 
