@@ -34,6 +34,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 4. React Redux Tutorial Pt 1
+### Day 4: March 2, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](assets/images/day4-small.jpg)](assets/images/day4.jpg)
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+Today I went through the first part of a tutorial called
+
+- *[React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)*
+
+This first half focused on the basic elements of Redux and using it in console.
+
+- The store
+- Getting state
+- Subscribing to state changes
+- Dispatching actions
+
+The next part will deal with connecting Redux and React together.
+
+**Links:**
+- Live Demo - [Redux in console](https://codesandbox.io/s/9z2py96vqo?fontsize=14) on CodeSandbox
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 3. Create Log Template Repo
 ### Day 3: March 1, 2019 - Friday
 
@@ -56,7 +85,7 @@ Additionally, any changes to the template or template instructions can the be pu
 ---
 
 ## 2. Redux, JS, & HTML UI
-### Day 2: February 28, 2018 - Thursday
+### Day 2: February 28, 2019 - Thursday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
