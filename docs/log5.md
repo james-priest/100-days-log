@@ -34,12 +34,49 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 5. React Redux Tutorial Pt 2
+### Day 5: March 3, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](assets/images/day5-small.jpg)](assets/images/day5.jpg)<br>
+**Live Demo:** [React Redux](https://codesandbox.io/s/v3ykn3oo5?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+Today I went through the second part of a tutorial called
+
+- *[React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)*
+
+[![Redux](assets/images/day5a-small.jpg)](assets/images/day5a.jpg)
+
+This focused on combining Redux & React with the react-redux package and doing the following:
+
+- Wrapping the app with a `<Provider>` HOC (Higher Order Component)
+- Calling `connect()` on any components we want to connect to Redux
+- Using `mapStateToProps` and `mapDispatchToProps` to allow us to access state and dispatch from a React component's props.  
+
+This was put into practice by creating an App, List, and Form component.
+
+- App -  parent component containing List and Form. App is wrapped with `<Provider>` to allow React to access Redux store.
+- List - used `mapStateToProps` to display titles from Redux store (state).
+- Form - used `mapDispatchToProps` to dispatch ADD_ARTICLE action and update the store.
+
+**Links:**
+- Live Demo - [Redux Redux](https://codesandbox.io/s/v3ykn3oo5?fontsize=14) on CodeSandbox
+- Tutorial - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 4. React Redux Tutorial Pt 1
 ### Day 4: March 2, 2019 - Saturday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![Redux](assets/images/day4-small.jpg)](assets/images/day4.jpg)
+[![Redux](assets/images/day4-small.jpg)](assets/images/day4.jpg)<br>
+**Live Demo:** [Redux in console](https://codesandbox.io/s/9z2py96vqo?fontsize=14) on CodeSandbox
 
 **Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
 
@@ -54,10 +91,13 @@ This first half focused on the basic elements of Redux and using it in console.
 - Subscribing to state changes
 - Dispatching actions
 
+[![Redux](assets/images/day4a-small.jpg)](assets/images/day4a.jpg)
+
 The next part will deal with connecting Redux and React together.
 
 **Links:**
 - Live Demo - [Redux in console](https://codesandbox.io/s/9z2py96vqo?fontsize=14) on CodeSandbox
+- Tutorial - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
