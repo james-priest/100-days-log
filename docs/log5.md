@@ -34,6 +34,50 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 6. React Redux Tutorial Pt 3
+### Day 6: March 4, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](assets/images/day6-small.jpg)](assets/images/day6.jpg)<br>
+**Live Demo:** [React Redux Middleware](https://codesandbox.io/s/0oj8rqmo70?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+Today I went through the third part of a tutorial called
+
+- *[React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)*
+
+This focused on introducing Redux middleware in order to provide logic to our dispatched actions. It provides the following benefits.
+
+- the logic can live outside React (or any other library/framework)
+- middlewares become reusable pieces of logic, easily to reason about
+- middlewares can be tested in isolation
+- we keep the components clean
+
+In this example I intercept an ADD_ARTICLE action after dispatch and check for the presence of unwanted words.
+
+[![Redux](assets/images/day6c-small.jpg)](assets/images/day6c.jpg)
+
+If a forbidden word (such as 'money') was found then the FOUND_BAD_WORD action was dispatched instead. It was then handled by our reducer.
+
+Testing out the logic filters out entries with unwanted words.
+
+[![Redux](assets/images/day6b-small.jpg)](assets/images/day6b.jpg)
+
+Our state is displayed using Redux DevTools.
+
+[![Redux](assets/images/day6a-small.jpg)](assets/images/day6a.jpg)
+
+**Links:**
+- Live Demo - [React Redux Middleware](https://codesandbox.io/s/0oj8rqmo70?fontsize=14) on CodeSandbox
+- GitHub Repo - [react-redux-middleware](https://github.com/james-priest/react-redux-middleware)
+- Tutorial - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 5. React Redux Tutorial Pt 2
 ### Day 5: March 3, 2019 - Sunday
 
