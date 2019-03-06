@@ -34,6 +34,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 7. React Redux Tutorial Pt 4
+### Day 7: March 5, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](assets/images/day7-small.jpg)](assets/images/day7.jpg)<br>
+**Live Demo:** [React Redux Thunk](https://codesandbox.io/s/84o941vx4j?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+Today I went through the last part of a tutorial called
+
+- *[React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)*
+
+This focused on introducing redux-thunk middleware which allows asynchronous operations to work with Redux. Some of the specifics around redux-thunk are:
+
+- Normally action creators are limited to returning an object.
+- Redux Thunk is middleware that allows action creators to return a function.
+- Promise-based asynchronous operations can be conducted in the action creator.
+- Actions can be dispatched from the action creator as well.
+
+Here's a sample of async code used  in the action creator.
+
+[![Redux](assets/images/day7a-small.jpg)](assets/images/day7a.jpg)
+
+**Links:**
+- Live Demo - [React Redux Thunk](https://codesandbox.io/s/84o941vx4j?fontsize=14) on CodeSandbox
+- GitHub Repo - [react-redux-middleware](https://github.com/james-priest/react-redux-middleware)
+- Tutorial - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 6. React Redux Tutorial Pt 3
 ### Day 6: March 4, 2019 - Monday
 
