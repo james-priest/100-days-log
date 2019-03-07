@@ -33,6 +33,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+---
+
+## 8. Redux Middleware
+### Day 8: March 6, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr34-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr34.jpg)<br>
+**Live Demo:** [Redux Todo Goals App](https://codesandbox.io/s/42zkzvrn14?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This lesson focused Redux Middleware. Middleware intercepts a dispatched action before it reaches the reducer.
+
+You can do things like:
+
+- Extend Redux with custom functionality
+- Validate, filter, or manipulate the data prior to it being reduced into state
+- Middleware can be daisy-chained to run multiple extensions on the actions.
+
+You can read more in my notes: [Udacity React & Redux - 3.1 Redux Middleware](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#3-redux-middleware)
+
+**Links:**
+- Live Demo - [Redux Todo Goals App](https://codesandbox.io/s/42zkzvrn14?fontsize=14) on CodeSandbox
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
 
 ## 7. React Redux Tutorial Pt 4
 ### Day 7: March 5, 2019 - Tuesday
