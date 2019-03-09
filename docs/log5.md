@@ -33,6 +33,31 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+## 9. React with Redux
+### Day 9: March 8, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr40-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr40.jpg)<br>
+**Live Demo:** [React Redux Todo Goals App](https://codesandbox.io/s/v3k1xp8ql7?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This lesson introduced using React with Redux. The goals were:
+
+- Convert DOM-based UI to React UI
+- Pass the Redux store as a prop to React components
+- Dispatch actions from field methods based on user interaction
+
+You can read more in my notes: [Udacity React & Redux - 4.1 React with Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#4-redux-with-react)
+
+**Links:**
+- Live Demo - [React Redux Todo Goals App](https://codesandbox.io/s/v3k1xp8ql7?fontsize=14) on CodeSandbox
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
 ---
 
 ## 8. Redux Middleware
