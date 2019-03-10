@@ -34,6 +34,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 10. Asynchronous Redux
+### Day 10: March 9, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr41-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr41.jpg)<br>
+**Live Demo:** [Async Redux Todo Goals App](https://codesandbox.io/s/0pkwq6o26l?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This lesson introduced async operation handling in Redux. This covered:
+
+- Fetching the request in `componentDidMount()`
+- Creating a new receiveDataAction method
+- Dispatching then method when data is received
+
+You can read more in my notes: [Udacity React & Redux - 5.1 Asynchronous Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#5-asynchronous-redux)
+
+**Links:**
+- Live Demo - [Async Redux Todo Goals App](https://codesandbox.io/s/0pkwq6o26l?fontsize=14) on CodeSandbox
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 9. React with Redux
 ### Day 9: March 8, 2019 - Friday
 
