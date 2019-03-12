@@ -34,6 +34,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 12. Redux Thunk
+### Day 12: March 11, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr45-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr45.jpg)<br>
+**Live Demo:** [Async Redux Todo Goals App](https://codesandbox.io/s/0pkwq6o26l?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This lesson covered the use of redux-thunk  middleware which allows us to run business logic and/or asynchronous code from our action creators.
+
+This provides the following benefits:
+
+- Cleaner separation between UI logic & data fetching logic.
+- Ability to run async code, dispatch other actions, or update the action object prior to submitting the action to the reducer.
+
+Redux middleware sits between the dispatch of an action and the running of the reducer. redux-thunk inspects what is returned from the action creator and passes it to reducer if it is an object. If it's a function then it invokes the function before finally passing the final object to the reducer.
+
+You can read more in my notes: [Udacity React & Redux - 5.4 Thunk](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#54-thunk)
+
+**Links:**
+- Live Demo - [Async Redux Todo Goals App](https://codesandbox.io/s/0pkwq6o26l?fontsize=14) on CodeSandbox
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 11. Redux Optimistic Updates
 ### Day 11: March 10, 2019 - Sunday
 
