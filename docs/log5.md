@@ -34,6 +34,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 14. Connected Components
+### Day 14: March 14, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr47-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr47.jpg)<br>
+**Live Demo:** [Context API Todo Goals App](https://codesandbox.io/s/l5m5n58rx7?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This lesson had us write code to replicate the functionality from `react-redux`.
+
+This included
+
+- Creating a Connected component to wrap a Provider
+- Writing a connect method
+- Ensuring connect is capable of being passed a function and currying a component for composition
+
+You can read more in my notes: [Udacity React & Redux - 6.3 Add Context to Todos](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#63-add-context-to-todos)
+
+**Links:**
+- Live Demo - [Context API Todo Goals App](https://codesandbox.io/s/l5m5n58rx7?fontsize=14) on CodeSandbox
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 13. React Context API
 ### Day 13: March 13, 2019 - Wednesday
 
