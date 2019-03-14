@@ -34,6 +34,63 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 13. React Context API
+### Day 13: March 13, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr48-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr48.jpg)<br>
+**Live Demo:** [Context API Todo Goals App](https://codesandbox.io/s/l5m5n58rx7?fontsize=14) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This lesson covered the use of React's Context API which gives deeply nested components access to props without having to pass them all the way down the hierarchy.
+
+It uses:
+
+- Declarative syntax
+- `<Context.Provider>` to accept data which is to be passed to a consumer component
+- `<Context.Consumer>` which accepts a child function that provides access to the data and returns JSX.
+
+```jsx
+// Provider
+class App extends React.Component {
+  render() {
+  const name = 'Tyler';
+
+  return (
+    <Context.Provider value={name}>
+      <Parent />
+    </Context.Provider>
+    );
+  }
+}
+
+// Consumer
+function Grandchild ({ name }) {
+  return (
+    <Context.Consumer>
+      {(name) => (
+        <div>
+          <h1>Grandchild</h1>
+          <h3>Name: {name}</h3>
+        </div>
+      )}
+    </Context.Consumer>
+  );
+}
+```
+
+You can read more in my notes: [Udacity React & Redux - 6.2 React's Context API](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#62-reacts-context-api)
+
+**Links:**
+- Live Demo - [Context API Todo Goals App](https://codesandbox.io/s/l5m5n58rx7?fontsize=14) on CodeSandbox
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 12. Redux Thunk
 ### Day 12: March 11, 2019 - Monday
 
