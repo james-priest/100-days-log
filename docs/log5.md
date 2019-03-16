@@ -34,6 +34,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 15. React Redux Bindings
+### Day 15: March 15, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](assets/images/day15-small.jpg)](assets/images/day15.jpg)<br>
+**Live Demo:** [React Redux Todo Goals App](https://codesandbox.io/s/github/james-priest/reactnd-redux-todos-goals-cra) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This lesson was about implementing the `react-redux` library to provide an efficient way to pass a Redux store to our React components.
+
+This included
+
+- Importing the `react-redux` library
+- Wrapping `App` with Provider and passing in the store
+- Using `connect()` to map state & dispatch to props and then passing in the component we want to connect the redux store to.
+
+You can read more in my notes: [Udacity React & Redux - 6.4 react-redux Bindings](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#64-build-custom-connect)
+
+**Links:**
+- Live Demo - [React Redux Todo Goals App](https://codesandbox.io/s/github/james-priest/reactnd-redux-todos-goals-cra) on CodeSandbox
+- Repo - [React Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals-cra) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 14. Connected Components
 ### Day 14: March 14, 2019 - Thursday
 
