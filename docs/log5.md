@@ -34,6 +34,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 16. Redux Folder Structure
+### Day 16: March 16, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](assets/images/day16-small.jpg)](assets/images/day16.jpg)<br>
+**Live Demo:** [React Redux Todo Goals App](https://codesandbox.io/s/github/james-priest/reactnd-redux-todos-goals-cra) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This lesson was showed how to organize and structure a React Redux app using the [Rails-style pattern](https://redux.js.org/faq/code-structure) folder structure.
+
+This splits files according to function with these folders.
+
+- actions
+- constants
+- reducers
+- containers
+- components
+
+The exercise involved splitting all existing code for my Todo & Goals app according to this structure.
+
+You can read more in my notes: [Udacity React & Redux - 6.5 Folder Structure](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#66-folder-structure)
+
+**Links:**
+- Live Demo - [React Redux Todo Goals App](https://codesandbox.io/s/github/james-priest/reactnd-redux-todos-goals-cra) on CodeSandbox
+- Repo - [React Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals-cra) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 15. React Redux Bindings
 ### Day 15: March 15, 2019 - Friday
 
@@ -52,7 +84,7 @@ This included
 - Wrapping `App` with Provider and passing in the store
 - Using `connect()` to map state & dispatch to props and then passing in the component we want to connect the redux store to.
 
-You can read more in my notes: [Udacity React & Redux - 6.4 react-redux Bindings](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#64-build-custom-connect)
+You can read more in my notes: [Udacity React & Redux - 6.5 react-redux Bindings](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#64-build-custom-connect)
 
 **Links:**
 - Live Demo - [React Redux Todo Goals App](https://codesandbox.io/s/github/james-priest/reactnd-redux-todos-goals-cra) on CodeSandbox
