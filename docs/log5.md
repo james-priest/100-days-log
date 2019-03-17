@@ -34,6 +34,39 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 17. Redux Architecure
+### Day 17: March 17, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](assets/images/day16-small.jpg)](assets/images/day16.jpg)<br>
+**Live Demo:** [React Redux Todo Goals App](https://codesandbox.io/s/github/james-priest/reactnd-redux-todos-goals-cra) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+I spent the day reading through a handful of key articles that detailed how to best organize and manage code related to large-scale Redux applications.
+
+This was very eye opening. It included the following topics.
+
+- Normalizing data before use
+- Storing data with an index and accessing it with selectors
+- Keeping canonical data (data from the DB or API) separate from UI state data
+- Splitting the store into sub-stores & using slice reducers
+- Other best practices for connecting React components to Redux state
+
+You can read more in my notes: [Udacity React & Redux - 6.7 Redux Architecture](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#67-redux-architecture)
+
+**Links:**
+- Redux Docs - [Organizing State](https://redux.js.org/faq/organizing-state)
+- Redux Docs - [Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape)
+- Medium - [Redux for state management in large web apps](https://blog.mapbox.com/redux-for-state-management-in-large-web-apps-c7f3fab3ce9b) - Sub-stores, slice reducers, data structures with [Immutable-js library](https://facebook.github.io/immutable-js/), and selector functions
+- Medium - [Five Tips for Working with Redux in Large Applications](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb) - Data indexes, separate canonical and UI state, and selectors functions.
+- egghead.io - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) - Dan Abramov's EXCELLENT video tutorial series.
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 16. Redux Folder Structure
 ### Day 16: March 16, 2019 - Saturday
 
