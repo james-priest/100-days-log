@@ -39,7 +39,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![Redux](assets/images/day16-small.jpg)](assets/images/day16.jpg)<br>
+[![Redux](assets/images/day17-small.jpg)](assets/images/day17.jpg)<br>
 **Live Demo:** [React Redux Todo Goals App](https://codesandbox.io/s/github/james-priest/reactnd-redux-todos-goals-cra) on CodeSandbox
 
 **Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
