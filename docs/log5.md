@@ -34,6 +34,42 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 18. Real World Redux
+### Day 18: March 18, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr49-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr49.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This section of the course gets into building a real-world Twitter-like Redux application by first starting with the application design process.
+
+These are the steps we follow before writing a single line of code.
+
+1. Identify What Each View Should Look Like
+2. Break Each View Into a Hierarchy of Components
+3. Determine What Events Happen in the App
+4. Determine What Data Lives in the Store
+
+This app will provide basic functionality like timeline, tweets, reply's, likes, etc. We'll use what we've learned so far to accomplish this including:
+
+- Redux
+- React
+- React-Redux bindings
+- Middleware (API call & thunks)
+
+You can read more in my notes: [Udacity React & Redux - Real World Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#7-real-world-redux)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 17. Redux Architecure
 ### Day 17: March 17, 2019 - Sunday
 
