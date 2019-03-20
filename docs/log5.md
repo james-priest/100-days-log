@@ -34,7 +34,49 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-<!-- ## 20. Planning Steps 3 & 4 Events & Store Data -->
+## 20. Planning Steps 3 & 4 Events & Store Data
+### Day 20: March 20, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr57-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr57.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This section of the course gets into building a real-world Twitter-like Redux application by first starting with the application design process.
+
+The next two steps of the design process are:
+
+- **Step 3** - Identify App Events
+- **Step 4** - Determine Store Data
+
+We identify app events by taking a look at what can happen in each component. Specifically, what actions the app or user is performing *on the data* in each component.
+
+[![rr59](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr59-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr59.jpg)<br>
+<span class="center bold">New tweet components</span>
+
+Looking at this view we can determine the following events (actions) are needed.
+
+- *get* the **authedUser** so the user can create a new tweet.
+- *set* the **text** of the new tweet.
+
+When determining what data should live in the store we can follow Dan Abramov's advice.
+
+> *"Data should be moved to the store when that data or state matters globally or when it is mutated in complex ways."*
+
+[![rr61](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr61-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr61.jpg)<br>
+<span class="center bold">The Store contains `tweets`, `users`, & `authedUsers` properties.</span>
+
+You can read more in my notes: [Udacity React & Redux - 7.5 Step 3 - App Events](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#75-step-3---app-events)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
 
 ## 19. Planning Steps 1 & 2 Views & Components
 ### Day 19: March 19, 2019 - Tuesday
@@ -50,8 +92,8 @@ This section of the course gets into building a real-world Twitter-like Redux ap
 
 The first two steps of the design process are:
 
-1. Identify Views
-2. Create Component Hierarchy
+- **Step 1** - Identify Views
+- **Step 2** - Create Component Hierarchy
 
 Identifying the views consists of drawing each page or screen of the app on a sheet of paper. This will help identify what information and data in required. In this case we already have a mockup we can use as a screenshot.
 
