@@ -34,6 +34,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+<!-- ## 20. Planning Steps 3 & 4 Events & Store Data -->
+
+## 19. Planning Steps 1 & 2 Views & Components
+### Day 19: March 19, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr53-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr53.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This section of the course gets into building a real-world Twitter-like Redux application by first starting with the application design process.
+
+The first two steps of the design process are:
+
+1. Identify Views
+2. Create Component Hierarchy
+
+Identifying the views consists of drawing each page or screen of the app on a sheet of paper. This will help identify what information and data in required. In this case we already have a mockup we can use as a screenshot.
+
+[![rr52](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr52-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr52.jpg)<br>
+<span class="center bold">New tweet view</span>
+
+Creating the component hierarchy consists of drawing boxes around every component on the page and organizing the hierarchy based on the nesting of these components.
+
+[![rr55](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr55-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr55.jpg)<br>
+<span class="center bold">New tweet view components</span>
+
+You can read more in my notes: [Udacity React & Redux - 7.3 Step 1 - Views](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#73-step-1---views)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 18. Real World Redux
 ### Day 18: March 18, 2019 - Monday
 
@@ -60,7 +99,7 @@ This app will provide basic functionality like timeline, tweets, reply's, likes,
 - React-Redux bindings
 - Middleware (API call & thunks)
 
-You can read more in my notes: [Udacity React & Redux - Real World Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#7-real-world-redux)
+You can read more in my notes: [Udacity React & Redux - 7. Real World Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#7-real-world-redux)
 
 **Links:**
 - Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
