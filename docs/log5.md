@@ -34,6 +34,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 21. Actions, Reducers, & Middleware
+### Day 21: March 21, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr61-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr61.jpg)<br>
+<span class="center bold">The Store contains `tweets`, `users`, & `authedUsers` properties.</span>
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+I've now gotten into the coding portion my real-world Twitter-like Redux application.
+
+I started with the actions and action creators. I then worked my way through the reducers. Next, I continued with the middleware.
+
+I now have the following pieces hooked up and in place.
+
+- Action Creators
+- Thunk Action Creators (for async operations)
+- Reducers
+- Root Reducer (to combine store slices)
+- Middleware (thunk & logger)
+
+Nothing actually appears in the app yet because I haven't actually dispatched any actions.  That'll be next.
+
+You can read more in my notes: [Udacity React & Redux - 7.7 Actions](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#77-actions)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+- Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 20. Planning Steps 3 & 4 Events & Store Data
 ### Day 20: March 20, 2019 - Wednesday
 
@@ -72,7 +106,7 @@ You can read more in my notes: [Udacity React & Redux - 7.5 Step 3 - App Events]
 
 **Links:**
 - Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
-- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter) on GitHub
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
@@ -109,7 +143,7 @@ You can read more in my notes: [Udacity React & Redux - 7.3 Step 1 - Views](http
 
 **Links:**
 - Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
-- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter) on GitHub
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
@@ -145,7 +179,7 @@ You can read more in my notes: [Udacity React & Redux - 7. Real World Redux](htt
 
 **Links:**
 - Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
-- Repo - [Redux Todos & Goals App](https://github.com/james-priest/reactnd-redux-todos-goals/tree/master) on GitHub
+- Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter) on GitHub
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
