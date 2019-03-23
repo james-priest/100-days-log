@@ -34,6 +34,68 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 23. Dashboard Component
+### Day 23: March 23, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr65-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr65.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter@5-dashboard](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/5-dashboard) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+The next set of steps involves rendering state data from my Redux store as React UI. Starting with the Dashboard component, I needed to pull in a list of TweetIds. I did this by
+
+- Using react-redux `mapStateToProps`
+- Destructuring the `tweets` slice of my state
+- Extracting `tweetIds` and sorting in reverse chronological order
+
+```js
+function mapStateToProps({ tweets }) {
+  return {
+    tweetsIds: Object.keys(tweets).sort(
+      (a, b) => tweets[b].timestamp - tweets[a].timestamp
+    )
+  };
+}
+```
+
+I then mapped over this in my Dashboard component.
+
+```jsx
+class Dashboard extends React.Component {
+  render() {
+    const { tweetsIds } = this.props;
+    return (
+      <div>
+        <h3 className="center">Your Timeline</h3>
+        <ul className="dashboard-list">
+          {tweetsIds.map(id => (
+            <li key={id}>
+              <div>TWEET ID: {id}</div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    );
+  }
+}
+
+export default connect(mapStateToProps)(Dashboard);
+```
+
+
+You can read more in my notes: [Udacity React & Redux - 7.11 Dashboard Component](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#711-dashboard-component)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter@5-dashboard](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/5-dashboard) on CodeSandbox
+- GitHub Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter)
+- Finished App - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 22. Populate Redux Store
 ### Day 22: March 22, 2019 - Friday
 
