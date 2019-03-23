@@ -34,6 +34,52 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 22. Populate Redux Store
+### Day 22: March 22, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr67-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr67.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter@4-handle-initial-data](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/4-handle-initial-data) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+Now that I have my Redux action creators, reducers, and middleware in place it was time to do the following:
+
+- Use the react-redux `connect()` method to hook Redux up to my App component. This turns App into a container component by providing access to the store and it's methods.
+- Deconstruct the store's `dispatch` method inside of `componentDidMount()`.
+- Dispatch my thunk action creator (`handleInitialData`) to populate the store.
+
+```jsx
+// App.js
+import React, { Component } from 'react';
+import { handleInitialData } from '../actions/shared';
+import { connect } from 'react-redux';
+
+class App extends Component {
+  componentDidMount() {
+    const { dispatch } = this.props;
+
+    dispatch(handleInitialData());
+  }
+  render() {
+    return <div>Starter Code</div>;
+  }
+}
+
+export default connect()(App);
+```
+
+You can read more in my notes: [Udacity React & Redux - 7.10 Initialize App Data](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#710-initialize-app-data)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+- Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter) on GitHub
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 21. Actions, Reducers, & Middleware
 ### Day 21: March 21, 2019 - Thursday
 
