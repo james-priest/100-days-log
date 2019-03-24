@@ -34,6 +34,52 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 24. Tweet Component
+### Day 24: March 24, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr69-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr69.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter@6-tweet-ui](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/6-tweet-ui) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+This next step involved bringing in various slices of the store into the Tweet component. This included
+
+- authedUser
+- tweets
+- users
+
+This data is then formatted before it's made available as props to our component.
+
+```jsx
+// Tweets.js
+function mapStateToProps({ authedUser, users, tweets }, { id }) {
+  const tweet = tweets[id];
+  const parentTweet = tweet ? tweets[tweet.replyingTo] : null;
+
+  return {
+    authedUser,
+    tweet: tweet
+      ? formatTweet(tweet, users[tweet.author], authedUser, parentTweet)
+      : null
+  };
+}
+```
+
+Once the component deconstructs the data elements, it renders out the information.
+
+You can read more in my notes: [Udacity React & Redux - 7.12 Tweet Component](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#712-tweet-component)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter@6-tweet-ui](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/6-tweet-ui) on CodeSandbox
+- GitHub Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter)
+- Finished App - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 23. Dashboard Component
 ### Day 23: March 23, 2019 - Saturday
 
@@ -83,7 +129,6 @@ class Dashboard extends React.Component {
 
 export default connect(mapStateToProps)(Dashboard);
 ```
-
 
 You can read more in my notes: [Udacity React & Redux - 7.11 Dashboard Component](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#711-dashboard-component)
 
