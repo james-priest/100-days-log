@@ -34,34 +34,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 25. React Redux Loading Bar
-### Day 25: March 25, 2019 - Monday
+## 26. Redux Dispatch Action
+### Day 26: March 26, 2019 - Tuesday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr70-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr70.jpg)<br>
-<span class="bold">Loading...</span>
-[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr71-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr71.jpg)<br>
-**Live Demo:** [Chirper - Redux Twitter@7-loading](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/7-loading) on CodeSandbox
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr75-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr75.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter@8-like-tweet](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/8-like-tweet) on CodeSandbox
 
 **Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
 
-This part of the lesson involved using a prebuilt component called [react-redux-loading-bar](https://www.npmjs.com/package/react-redux-loading-bar) to provide a loading bar that works with Redux.
+This part of the app consists the following:
 
-The component has three parts to it.
+- Adding a TOGGLE_TWEET action creator
+- Building a thunk `handleToggleTweet` function for the async API call
+- Creating a TOGGLE_TWEET reducer to return the updated state
+- Connecting the action creators to our component for dispatch
 
-- actions creators: showLoading & hideLoading
-- loading bar reducer
-- loading bar component
-
-The three pieces need to be implemented in order for everything to work properly.
-
-You can read more in my notes: [Udacity React & Redux - 7.13 Loading Bar](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#712-tweet-component)
+You can read more in my notes: [Udacity React & Redux - 7.14 Liking a Tweet](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#714-liking-a-tweet)
 
 **Links:**
-- Live Demo - [Chirper - Redux Twitter@7-loading](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/7-loading) on CodeSandbox
+- Live Demo - [Chirper - Redux Twitter@8-like-tweet](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/8-like-tweet) on CodeSandbox
 - GitHub Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter)
-- Finished App - [Chirper - Redux Twitter-like App](https://tylermcginnis.com/projects/redux-twitter/)
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
