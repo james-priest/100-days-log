@@ -34,6 +34,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 28. Container Component
+### Day 28: March 28, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr77-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr77.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter@10-tweet-page](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/10-tweet-page) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+Now that I have a few components such as Dashboard, Tweet, & AddTweet, I can begin to compose them in my TweetPage container component.
+
+The Tweet Page displays
+
+- The tweet that has been selected
+- An input to reply to the selected tweet
+- List of existing replies
+
+Since the actions, action creators, and reducers already exist for my child components it was a matter of fine-tuning the children to work in different contexts.
+
+You can read more in my notes: [Udacity React & Redux - 7.16 TweetPage Component](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#716-tweetpage-component)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter@10-tweet-page](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/10-tweet-page) on CodeSandbox
+- GitHub Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 27. Compose New Tweet
 ### Day 27: March 27, 2019 - Wednesday
 
