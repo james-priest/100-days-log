@@ -34,6 +34,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 29. Twitter Redux App Done
+### Day 29: March 29, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr80-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr80.jpg)<br>
+**Live Demo:** [Chirper - Redux Twitter@11-react-router](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/11-react-router) on CodeSandbox
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+Today I finished my "real-world" Twitter-like app. It employed the following.
+
+- React
+- Redux
+- React Router
+- Redux Thunk
+
+Today's lesson involved implementing React Router across the views and hooking up the child components work with router.
+
+Now that this exercise is done, I should have the required skills to complete my required 2nd React Nanodegree project. The suggested due date was last week so I hope I'm able to knock it out in the next 5-7 days.
+
+You can read more in my notes: [Udacity React & Redux - 7.17 Using React Router](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#717-using-react-router)
+
+**Links:**
+- Live Demo - [Chirper - Redux Twitter@11-react-router](https://codesandbox.io/s/github/james-priest/reactnd-redux-twitter/tree/11-react-router) on CodeSandbox
+- GitHub Repo - [Chirper - Redux Twitter-like App](https://github.com/james-priest/reactnd-redux-twitter)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 28. Container Component
 ### Day 28: March 28, 2019 - Thursday
 
