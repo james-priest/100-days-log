@@ -33,29 +33,42 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
-<!-- 
-## 31. React/Redux Polling App Specifications
-### Day 31: March 31, 2019 - Saturday
+
+## 31. React/Redux Polling App Sample UI
+### Day 31: March 31, 2019 - Sunday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
 [![Redux](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr4-small.jpg)](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr4.jpg)<br>
 <span class="center bold">Poll Results</span>
 
-**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
 
-Today was the first day of planning for the Would You Rather React Redux app.
+I added to the requirements portion of my Code Notes by including the following:
 
+- App Functionality
+- App Architecture
+- Project Instructions
+- Sample Project UI
+- Step-by-Step Guide
 
+Included are screenshots of a sample version of the "Would You Rather" app.
 
-You can read more in my notes: [Udacity React & Redux - 7.17 Using React Router](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#717-using-react-router)
+This helps to show some of the functionality and information that this app needs to have.
+
+[![Redux](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr6-small.jpg)](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr6.jpg)<br>
+<span class="center bold">Leader Board</span>
+
+I also added a section with step-by-step instructions which detail how to design the structure of a React/Redux app.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 1.5 Sample Project UI](https://james-priest.github.io/reactnd-project-would-you-rather/#15-sample-project-ui)
 
 **Links:**
 - Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
---- -->
+---
 
 ## 30. React/Redux Polling App Specifications
 ### Day 30: March 30, 2019 - Saturday
