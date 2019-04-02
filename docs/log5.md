@@ -34,6 +34,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 32. React/Redux Polling App Semantic UI React
+### Day 32: April 1, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr8-small.jpg)](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr8.jpg)<br>
+<span class="center bold">UI Test 2</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+I started with the planning stage of evaluating different React UI Libraries for my UI Framework. I settled on [Sematic UI React](https://react.semantic-ui.com/).
+
+I has awesome docs with examples and code for every component. Each example is done with an embedded CodeSandbox instance so you can instantly tweak the code.
+
+Here's the short list of features.
+
+- jQuery Free
+- Declarative API
+- Augmentation
+- Shorthand Props
+- Sub Components
+- Auto Controlled State
+
+I created a couple UI test samples to play with the library and have found it to be very flexible
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr7-small.jpg)](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr7.jpg)<br>
+<span class="center bold">UI Test 1</span>
+
+You can see the code I used in my code notes.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.1 Sematic UI React](https://james-priest.github.io/reactnd-project-would-you-rather/#21-semantic-ui-react)
+
+**Links:**
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 31. React/Redux Polling App Sample UI
 ### Day 31: March 31, 2019 - Sunday
 
