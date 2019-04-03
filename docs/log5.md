@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 33. React/Redux Polling App Home Page Mockup
+### Day 33: April 2, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](assets/images/day33-small.jpg)](assets/images/day33.jpg)<br>
+<span class="center bold">Home Page Mockup</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Today I used the Semantic UI React library to begin mocking up my UI.
+
+I did the following.
+
+- Created a Nav component
+- Made sure it was responsive and worked across various breakpoints & sizes
+- Mocked up the Home Page using my Nav component and composing sections
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.3 UI Mockups](https://james-priest.github.io/reactnd-project-would-you-rather/#23-ui-mockups)
+
+**Links:**
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 32. React/Redux Polling App Semantic UI React
 ### Day 32: April 1, 2019 - Monday
 
@@ -46,7 +73,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 I started with the planning stage of evaluating different React UI Libraries for my UI Framework. I settled on [Sematic UI React](https://react.semantic-ui.com/).
 
-I has awesome docs with examples and code for every component. Each example is done with an embedded CodeSandbox instance so you can instantly tweak the code.
+It has awesome docs with examples and code for every component. Each example is done with an embedded CodeSandbox instance so you can instantly tweak the code.
 
 Here's the short list of features.
 
