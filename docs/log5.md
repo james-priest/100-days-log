@@ -40,7 +40,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
 [![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr11-small.jpg)](https://james-priest.github.io/assets/images/wyr11.jpg)<br>
-<span class="center bold">Home Page Mockup</span>
+<span class="center bold">Home Page with Tab Component Mockup</span>
 
 **Progress:** Continued React/Redux project for my React Nanodegree Program.
 
@@ -57,7 +57,7 @@ I then composed these together and used a JavaScript object to mimic the data th
 You can read more here: [ReactND Project 2 - Would You Rather - 2.4 Mockup - Home](https://james-priest.github.io/reactnd-project-would-you-rather/#24-mockup---nav)
 
 **Links:**
-- Live Demo: [Would You Rather App@5-mockup-nav](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/5-mockup-nav/?fontsize=14) on CodeSandbox
+- Live Demo: [Would You Rather App@6-mockup-home](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/6-mockup-home/?fontsize=14) on CodeSandbox
 - Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
