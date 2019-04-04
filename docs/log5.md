@@ -34,6 +34,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 34. React/Redux Polling App Nav & Tab Component
+### Day 34: April 3, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr11-small.jpg)](https://james-priest.github.io/assets/images/wyr11.jpg)<br>
+<span class="center bold">Home Page Mockup</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Today I cleaned up the Home Page mockup by splitting the UI into the  following components.
+
+- App.js
+- Home.js
+- Nav.js
+- TabControl.js
+- Question.js
+
+I then composed these together and used a JavaScript object to mimic the data that Redux will eventually return.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.4 Mockup - Home](https://james-priest.github.io/reactnd-project-would-you-rather/#24-mockup---nav)
+
+**Links:**
+- Live Demo: [Would You Rather App@5-mockup-nav](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/5-mockup-nav/?fontsize=14) on CodeSandbox
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 33. React/Redux Polling App Home Page Mockup
 ### Day 33: April 2, 2019 - Tuesday
 
@@ -55,6 +85,7 @@ I did the following.
 You can read more here: [ReactND Project 2 - Would You Rather - 2.3 UI Mockups](https://james-priest.github.io/reactnd-project-would-you-rather/#23-ui-mockups)
 
 **Links:**
+- Live Demo: [Would You Rather App@4-ui-mockups](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/4-ui-mockups/?fontsize=14) on CodeSandbox
 - Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
