@@ -34,6 +34,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 36. React/Redux Polling App Poll Question
+### Day 36: April 6, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr18-small.jpg)](https://james-priest.github.io/assets/images/wyr18.jpg)<br>
+<span class="center bold">Poll Question</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+I spent the day putting together a working version of the poll question page.
+
+It does the following.
+
+- Displays both question options
+- Allows one to be selected
+- Submits the selection in order to display the result
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.7 Mockup - Poll Question](https://james-priest.github.io/reactnd-project-would-you-rather/#27-mockup---poll-question)
+
+**Links:**
+- Live Demo: [Would You Rather App@8-mockup-poll-question](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/8-mockup-poll-question/?fontsize=14) on CodeSandbox
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 35. React/Redux Polling App Framework/Stub Pages
 ### Day 35: April 5, 2019 - Friday
 
