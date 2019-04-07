@@ -34,6 +34,39 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 35. React/Redux Polling App Framework/Stub Pages
+### Day 35: April 5, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr16-small.jpg)](https://james-priest.github.io/assets/images/wyr16.jpg)<br>
+<span class="center bold">New Poll Stub Page</span>
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr17-small.jpg)](https://james-priest.github.io/assets/images/wyr17.jpg)<br>
+<span class="center bold">Leaderboard Stub Page</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+I spent the last couple days creating a mockup framework for this app. It now allows navigation and contains a stub view for each page.
+
+This a little time-consuming since I had to do the following
+
+- Add and implement routing
+- Organize reusable component structure
+- Create stub pages for each view
+
+I also updated the UI scheme a bit to differentiate between answered and unanswered polls.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.6 Mockup - Framework](https://james-priest.github.io/reactnd-project-would-you-rather/#26-mockup---framework)
+
+**Links:**
+- Live Demo: [Would You Rather App@7-mockup-framework](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/7-mockup-framework/?fontsize=14) on CodeSandbox
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 34. React/Redux Polling App Nav & Tab Component
 ### Day 34: April 3, 2019 - Wednesday
 
