@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 37. React/Redux Polling App Poll Result
+### Day 37: April 7, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr19-small.jpg)](https://james-priest.github.io/assets/images/wyr19.jpg)<br>
+<span class="center bold">Poll Result</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Today was spent mocking up the Poll Result page. It does the following
+
+- Displays the winning answer
+- Shows the number of votes for each question along with total votes
+- Displays a percentage of votes
+- Shows which option the user voted for
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.8 Mockup - Poll Result](https://james-priest.github.io/reactnd-project-would-you-rather/#28-mockup---poll-result)
+
+**Links:**
+- Live Demo: [Would You Rather App@9-mockup-poll-result](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/9-mockup-poll-result/?fontsize=14) on CodeSandbox
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 36. React/Redux Polling App Poll Question
 ### Day 36: April 6, 2019 - Saturday
 
