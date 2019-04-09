@@ -34,13 +34,41 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 39. React/Redux Polling App Leaderboard
+### Day 39: April 9, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr24-small.jpg)](https://james-priest.github.io/assets/images/wyr24.jpg)<br>
+<span class="center bold">Leaderboard</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+The leaderboard required some data manipulation in order to do the following
+
+- Get answered questions score
+- Get created questions score
+- Calculate totals
+- Sort by rank
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.10 Mockup - Leaderboard](https://james-priest.github.io/reactnd-project-would-you-rather/#210-mockup---leaderboard)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@11-mockup-leaderboard](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/11-mockup-leaderboard/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 38. React/Redux Polling App New Poll Form
 ### Day 38: April 8, 2019 - Monday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
 [![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr21-small.jpg)](https://james-priest.github.io/assets/images/wyr21.jpg)<br>
-<span class="center bold">Poll Result</span>
+<span class="center bold">New Poll Form</span>
 
 **Progress:** Continued React/Redux project for my React Nanodegree Program.
 
