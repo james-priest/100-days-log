@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 38. React/Redux Polling App New Poll Form
+### Day 38: April 8, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr21-small.jpg)](https://james-priest.github.io/assets/images/wyr21.jpg)<br>
+<span class="center bold">Poll Result</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Today I created a controlled component for the Add Poll page.  It does the following.
+
+- Requires each field to have valid data before Submit button is enabled
+- Uses state to control field values
+- Implements a Loader on submission
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.9 Mockup - New Poll](https://james-priest.github.io/reactnd-project-would-you-rather/#29-mockup---new-poll)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@10-mockup-new-poll](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/10-mockup-new-poll/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 37. React/Redux Polling App Poll Result
 ### Day 37: April 7, 2019 - Sunday
 
