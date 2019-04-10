@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 40. React/Redux Polling App Login Form
+### Day 40: April 10, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr25-small.jpg)](https://james-priest.github.io/assets/images/wyr25.jpg)<br>
+<span class="center bold">Login</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Today I completed the Login page mockup for this project. It does the following.
+
+- Allows a user to select one of the pre-existing accounts
+- Enables the Login button once a selection has been made
+- Displays the logged in user within the Navigation bar.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 2.11 Mockup - Login](https://james-priest.github.io/reactnd-project-would-you-rather/#211-mockup---login)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@12-mockup-login](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/12-mockup-login/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 39. React/Redux Polling App Leaderboard
 ### Day 39: April 9, 2019 - Tuesday
 
