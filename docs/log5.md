@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 42. React/Redux Polling App Component Hierarchy
+### Day 42: April 12, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr35-small.jpg)](https://james-priest.github.io/assets/images/wyr35.jpg)<br>
+<span class="center bold">Login components</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Now that the views have been created along with a bullet list of requirements for each, the next step is to create the component hierarchy.
+
+This is done by drawing boxes around every component or sub-component and naming each.
+
+Determining what should be a component should follow the same rules for deciding if a new function or object should be created. It should follow the single responsibility principle. A component should ideally only do one thing.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 3.2 Component Hierarchy](https://james-priest.github.io/reactnd-project-would-you-rather/#32-step-2---component-hierarchy)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 41. React/Redux Polling App Views & Requirements
 ### Day 41: April 11, 2019 - Thursday
 
