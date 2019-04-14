@@ -34,6 +34,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 43. React/Redux Polling App App Events
+### Day 43: April 13, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr48-small.jpg)](https://james-priest.github.io/assets/images/wyr48.jpg)<br>
+<span class="center bold">PollQuestion component</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+This next step consists of determining what events happen in each component. We do this by taking a look at what can happen in each component. Specifically, what **actions** the app or user is performing on the **data** in each component.
+
+We do the following in the analysis of of each component:
+
+- <span class="underline">underline</span> the action
+- **bold** the data
+
+Here's the breakdown for the PollQuestion component from above.
+
+- <span class="underline">get</span> **authUser** to record an answered question.
+- <span class="underline">get</span> question from the list of **questions**.
+- <span class="underline">set</span> **option** for the answered question.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 3.3 App Events](https://james-priest.github.io/reactnd-project-would-you-rather/#33-step-3---app-events)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 42. React/Redux Polling App Component Hierarchy
 ### Day 42: April 12, 2019 - Friday
 

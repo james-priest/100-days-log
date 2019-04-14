@@ -110,7 +110,9 @@ section .center {
 section .bold {
     font-weight: bold;
 }
-
+section .underline {
+    text-decoration: underline;
+}
 h1, h2, h3, h2+p>strong {
     line-height: 1.0;
 }
