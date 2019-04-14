@@ -34,6 +34,39 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 41. React/Redux Polling App Views & Requirements
+### Day 41: April 11, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](assets/images/day41-small.jpg)](assets/images/day41.jpg)<br>
+<span class="center bold">Home View</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+The next step in building this app is to take each mockup and list out the requirements based on user stories or a narrative.
+
+Here's a list of requirements for the Home view pictured above.
+
+- Upon login the user is take to root (`/`) and shown the Home view
+- User can toggle between his/her answered and unanswered polls
+- Unanswered polls should be shown by default
+- Polls in both categories are arranged from most recent to least recently created
+- The logged in account name should be visible on the page
+- Clicking any poll (answered or unanswered) navigates to the poll’s details
+- Poll details should be located at `questions/:question_id`
+
+You can read more here: [ReactND Project 2 - Would You Rather - 3.1 View Requirements](https://james-priest.github.io/reactnd-project-would-you-rather/#31-step-1---view-requirements)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 40. React/Redux Polling App Login Form
 ### Day 40: April 10, 2019 - Wednesday
 
