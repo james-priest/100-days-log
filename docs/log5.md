@@ -34,6 +34,50 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 44. React/Redux Polling App Store Data
+### Day 44: April 14, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr53-small.jpg)](https://james-priest.github.io/assets/images/wyr53.jpg)<br>
+<span class="center bold">Redux Store Entities</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+This last step of the the application design process involves analyzing where each piece of data is required.
+
+Data used globally or in many different places is ideal for our Redux store. One useful exercise is to list out all components that rely on each data entitiy. 
+
+**Component / Store Matrix**
+
+Here's a matrix that shows each proposed component on the left and each piece of data across the top.
+
+| *Components / Data* | Users | Questions | AuthUser| Text | Option |
+| | --- | --- | --- | --- | --- |
+| App | x | x | | | |
+| Login | x | | x | | |
+| Home | | x | | | |
+| UserCard | x | | | | |
+| PollTeaser | | x | | | |
+| PollQuestion | x | x | | | x |
+| PollAnswer | | x | | | |
+| NewPoll | | | x | x | |
+| Leaderboard | x | | | | |
+| LeaderboardCard | x | | | | |
+
+We can quickly see which components require Users, Questions, & AuthUser. This also tells us which components need to be made into container components and connected with React-Redux.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 3.4 Store Data](https://james-priest.github.io/reactnd-project-would-you-rather/#34-step-4---store-data)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 43. React/Redux Polling App App Events
 ### Day 43: April 13, 2019 - Saturday
 
