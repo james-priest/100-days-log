@@ -34,6 +34,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 45. React/Redux Polling App Actions & Reducers
+### Day 45: April 15, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr54-small.jpg)](https://james-priest.github.io/assets/images/wyr54.jpg)<br>
+<span class="center bold">React Dev Tools showing store state</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Now that I completed the design and planning phase I was able to finally start the coding phase. The great part is that this is happening quickly and with confidence.
+
+I managed to work on the following:
+
+- Async API calls
+- Actions & action creators
+- Reducers
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4. Coding Phase](https://james-priest.github.io/reactnd-project-would-you-rather/#4-coding-phase)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 44. React/Redux Polling App Store Data
 ### Day 44: April 14, 2019 - Sunday
 
@@ -46,11 +75,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 This last step of the the application design process involves analyzing where each piece of data is required.
 
-Data used globally or in many different places is ideal for our Redux store. One useful exercise is to list out all components that rely on each data entitiy. 
+Data used globally or in many different places is ideal for our Redux store. One useful exercise is to list out all components that rely on each data entity.
 
-**Component / Store Matrix**
-
-Here's a matrix that shows each proposed component on the left and each piece of data across the top.
+**Component / Store Matrix:** Here's a matrix that shows each proposed component on the left matched with each data entity across the top. It indicates whether that component with use that entity.
 
 | *Components / Data* | Users | Questions | AuthUser| Text | Option |
 | | --- | --- | --- | --- | --- |
