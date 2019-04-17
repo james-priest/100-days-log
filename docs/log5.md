@@ -34,6 +34,60 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+<!-- ## 47. React/Redux Polling App Connect & Dispatch -->
+
+## 46. React/Redux Polling App Middleware & Logging
+### Day 46: April 16, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr56-small.jpg)](https://james-priest.github.io/assets/images/wyr56.jpg)<br>
+<span class="center bold">Dev Tools Console with Logger output</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Today I added a Redux Thunk middleware component that outputs the resulting state of any action dispatches. This makes it a lot easier to do simple state debugging.
+
+This involved the following code at `/src/middleware/index.js`.
+
+```js
+// index.js
+import thunk from 'redux-thunk';
+import logger from './logger';
+import { applyMiddleware } from 'redux';
+
+export default applyMiddleware(thunk, logger);
+```
+
+Then it was added to the `createStore()` method in `/src/index.js`.
+
+```jsx
+// index.js
+...
+import rootReducer from './reducers/index';
+import middleware from './middleware';
+
+const store = createStore(rootReducer, middleware);
+
+ReactDOM.render(
+  <Provider store={store}>
+    <App />
+  </Provider>,
+  document.getElementById('root')
+);
+```
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.4 Middleware](https://james-priest.github.io/reactnd-project-would-you-rather/#44-middleware)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 45. React/Redux Polling App Actions & Reducers
 ### Day 45: April 15, 2019 - Monday
 
