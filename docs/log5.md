@@ -34,21 +34,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-<!-- 
-## 47. React/Redux Polling App Connect & Dispatch
+## 47. React/Redux Polling App Initial Data Set
 ### Day 47: April 17, 2019 - Wednesday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr56-small.jpg)](https://james-priest.github.io/assets/images/wyr56.jpg)<br>
-<span class="center bold">Dev Tools Console with Logger output</span>
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr55-small.jpg)](https://james-priest.github.io/assets/images/wyr55.jpg)<br>
+<span class="center bold">React Tools show storeState</span>
 
 **Progress:** Continued React/Redux project for my React Nanodegree Program.
 
-Today 
+Today I finally hooked up all the Redux plumbing code I had written up until this point by creating an entry point for an action dispatch in my App component. This now brings together each of these parts.
 
+- actions
+- action creators
+- reducers
+- redux middleware
+- async API calls
 
-You can read more here: [ReactND Project 2 - Would You Rather - 4.4 Middleware](https://james-priest.github.io/reactnd-project-would-you-rather/#44-middleware)
+The entry point dispatches my `handleInitialData()` redux thunk action to fill the store with it's initial data set.
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.5 Initialize App Data](https://james-priest.github.io/reactnd-project-would-you-rather/#45-initialize-app-data)
 
 **Links:**
 - Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
@@ -57,7 +63,7 @@ You can read more here: [ReactND Project 2 - Would You Rather - 4.4 Middleware](
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
---- -->
+---
 
 ## 46. React/Redux Polling App Middleware & Logging
 ### Day 46: April 16, 2019 - Tuesday
