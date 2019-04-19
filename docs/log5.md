@@ -34,6 +34,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 48. React/Redux Polling App Login & Nav
+### Day 48: April 18, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr57-small.jpg)](https://james-priest.github.io/assets/images/wyr57.jpg)<br>
+<span class="center bold">Login Form Component showing user accounts</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+This part of the the application dev process consists of creating components around my Redux data.
+
+I started with the Login & Nav components which use the following Redux state entities.
+
+- users
+- authUser (Logged in user)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr58-small.jpg)](https://james-priest.github.io/assets/images/wyr58.jpg)<br>
+<span class="center bold">Nav Component showing logged in user</span>
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.6 Login & Navigation](https://james-priest.github.io/reactnd-project-would-you-rather/#46-login--navigation)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 47. React/Redux Polling App Initial Data Set
 ### Day 47: April 17, 2019 - Wednesday
 
