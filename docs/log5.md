@@ -34,13 +34,73 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 50. React/Redux Polling App UserCard Component
+### Day 50: April 20, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr61-small.jpg)](https://james-priest.github.io/assets/images/wyr61.jpg)<br>
+<span class="center bold">Refactored UserCard</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+The UserCard component is responsible for displaying each of the following components based on the context
+
+- PollTeaser
+- PollQuestion
+- PollResult
+
+For this reason I needed to refactor the component to better handle each use case
+
+I created a simple switch statement that returns the proper component based on type.
+
+```jsx
+const pollTypes = {
+  POLL_TEASER: 'POLL_TEASER',
+  POLL_QUESTION: 'POLL_QUESTION',
+  POLL_RESULT: 'POLL_RESULT'
+};
+
+const PollContent = props => {
+  const { pollType, question, unanswered } = props;
+
+  switch (pollType) {
+    case pollTypes.POLL_TEASER:
+      return <PollTeaser question={question} unanswered={unanswered} />;
+    case pollTypes.POLL_QUESTION:
+      return <PollQuestion question={question} />;
+    case pollTypes.POLL_RESULT:
+      return <PollResult question={question} />;
+    default:
+      return;
+  }
+};
+```
+
+Then the component is referenced by the following:
+
+```html
+<PollContent pollType={pollType} question={question} unanswered={unanswered} />
+```
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.8 UserCard Component](https://james-priest.github.io/reactnd-project-would-you-rather/#48-usercard-component)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 49. React/Redux Polling App Home View
 ### Day 49: April 19, 2019 - Friday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
 [![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr60-small.jpg)](https://james-priest.github.io/assets/images/wyr60.jpg)<br>
-<span class="center bold">Login Form Component showing user accounts</span>
+<span class="center bold">Home View</span>
 
 **Progress:** Continued React/Redux project for my React Nanodegree Program.
 
@@ -52,7 +112,7 @@ This section required work on three separate components.
 
 Both Home and UserCard were connected up to the Redux store in order to map our state to props for display.
 
-The most involved transformation of store data involved taking store data as an object, turning into an array, filtering that array, and then sorting it chronologically.
+The most involved transformation of involved taking state as an object, turning into an array, filtering that array, and then sorting it chronologically.
 
 This was done to our question data prior to being used in our `connect` method.
 
