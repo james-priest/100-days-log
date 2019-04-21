@@ -34,6 +34,58 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 49. React/Redux Polling App Home View
+### Day 49: April 19, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr60-small.jpg)](https://james-priest.github.io/assets/images/wyr60.jpg)<br>
+<span class="center bold">Login Form Component showing user accounts</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+This section required work on three separate components.
+
+- Home
+- UserCard
+- PollTeaser
+
+Both Home and UserCard were connected up to the Redux store in order to map our state to props for display.
+
+The most involved transformation of store data involved taking store data as an object, turning into an array, filtering that array, and then sorting it chronologically.
+
+This was done to our question data prior to being used in our `connect` method.
+
+```js
+function mapStateToProps({ authUser, users, questions }) {
+  const answeredIds = Object.keys(users[authUser].answers);
+  const answered = Object.values(questions)
+    .filter(question => answeredIds.includes(question.id))
+    .sort((a, b) => b.timestamp - a.timestamp);
+  const unanswered = Object.values(questions)
+    .filter(question => !answeredIds.includes(question.id))
+    .sort((a, b) => b.timestamp - a.timestamp);
+
+  return {
+    userQuestionData: {
+      answered,
+      unanswered
+    }
+  };
+}
+```
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.7 Home View](https://james-priest.github.io/reactnd-project-would-you-rather/#47-home-view)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 48. React/Redux Polling App Login & Nav
 ### Day 48: April 18, 2019 - Thursday
 
