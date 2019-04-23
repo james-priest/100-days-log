@@ -34,6 +34,41 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 52. React/Redux Polling App Display Poll Results
+### Day 52: April 22, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr65-small.jpg)](https://james-priest.github.io/assets/images/wyr65.jpg)<br>
+<span class="center bold">Poll Results View</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+I connected the PollResult component to the Redux store in order to pull necessary data to do poll calculations.
+
+These include:
+
+- total number of votes
+- number of votes for each option
+- percentage of total vote for each option
+- indication of which option user voted for
+
+Code handles cases of a ties and leaves both options with secondary styling.
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr66-small.jpg)](https://james-priest.github.io/assets/images/wyr66.jpg)<br>
+<span class="center bold">Poll Results with a tie</span>
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.10 Display Poll Results](https://james-priest.github.io/reactnd-project-would-you-rather/#410-display-poll-results)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 51. React/Redux Polling App Answer Poll Question
 ### Day 51: April 21, 2019 - Sunday
 
@@ -55,7 +90,7 @@ The Redux Logger middleware shows actions submitted and the updated state as a r
 [![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr64-small.jpg)](https://james-priest.github.io/assets/images/wyr64.jpg)<br>
 <span class="center bold">Redux Logger</span>
 
-You can read more here: [ReactND Project 2 - Would You Rather - 4.8 UserCard Component](https://james-priest.github.io/reactnd-project-would-you-rather/#48-usercard-component)
+You can read more here: [ReactND Project 2 - Would You Rather - 4.9 Answer Poll Question](https://james-priest.github.io/reactnd-project-would-you-rather/#49-answer-poll-question)
 
 **Links:**
 - Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
