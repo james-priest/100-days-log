@@ -34,6 +34,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 53. React/Redux Polling App Create New Poll
+### Day 53: April 23, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr67-small.jpg)](https://james-priest.github.io/assets/images/wyr67.jpg)<br>
+<span class="center bold">Create New Poll View</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+This part of the app required new actions, action creators, reducers, & a thunk middleware function. The app now does the following:
+
+- Updates *users* state
+- Updates *questions* state
+- Does async request to the DB
+
+Here are the logger results showing the dispatched action.
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr71-small.jpg)](https://james-priest.github.io/assets/images/wyr71.jpg)<br>
+<span class="center bold">Redux Logger</span>
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.11 Create New Poll](https://james-priest.github.io/reactnd-project-would-you-rather/#411-create-new-poll)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 52. React/Redux Polling App Display Poll Results
 ### Day 52: April 22, 2019 - Monday
 
