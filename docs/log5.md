@@ -46,11 +46,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 I completed the Leaderboard view which had a long chain of data transformations including:
 
-- Object values
-- map
-- sort
-- reverse
-- slice
+- Object.values()
+- map()
+- sort()
+- reverse()
+- slice()
 
 You can read more here: [ReactND Project 2 - Would You Rather - 4.12 Display Leaderboard](https://james-priest.github.io/reactnd-project-would-you-rather/#412-display-leaderboard)
 
