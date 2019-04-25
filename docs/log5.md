@@ -34,6 +34,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 54. React/Redux Polling App Leaderboard View
+### Day 54: April 24, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr72-small.jpg)](https://james-priest.github.io/assets/images/wyr72.jpg)<br>
+<span class="center bold">Leaderboard View</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+I completed the Leaderboard view which had a long chain of data transformations including:
+
+- Object values
+- map
+- sort
+- reverse
+- slice
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.12 Display Leaderboard](https://james-priest.github.io/reactnd-project-would-you-rather/#412-display-leaderboard)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 53. React/Redux Polling App Create New Poll
 ### Day 53: April 23, 2019 - Tuesday
 
