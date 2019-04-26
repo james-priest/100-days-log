@@ -34,6 +34,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 55. React/Redux Polling App No Match 404 Route
+### Day 55: April 25, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr73-small.jpg)](https://james-priest.github.io/assets/images/wyr73.jpg)<br>
+<span class="center bold">No Match on bad path</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+Today I wrapped up the final required piece for my project submission. This involved the following.
+
+- Creating a NoMatch component
+- Updating Routing in App
+- Using React Router Redirect on bad id matches
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr74-small.jpg)](https://james-priest.github.io/assets/images/wyr74.jpg)<br>
+<span class="center bold">No Match on bad id</span>
+
+You can read more here: [ReactND Project 2 - Would You Rather - 4.13 No Match 404 Routing](https://james-priest.github.io/reactnd-project-would-you-rather/#413-no-match-404-routing)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 54. React/Redux Polling App Leaderboard View
 ### Day 54: April 24, 2019 - Wednesday
 
