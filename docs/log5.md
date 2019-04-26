@@ -34,6 +34,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 56. React/Redux Polling App Project Completed
+### Day 56: April 26, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr75-small.jpg)](https://james-priest.github.io/assets/images/wyr75.jpg)<br>
+<span class="center bold">Project Submission Results</span>
+
+**Progress:** Continued React/Redux project for my React Nanodegree Program.
+
+I completed and cleaned-up the code to be able to submit this project. Last minute items including:
+
+- Checked functionality against requirements & rubric
+- Removed all debug & console.log() code
+- Updated README & documentation & posted to GitHub
+
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr76-small.jpg)](https://james-priest.github.io/assets/images/wyr76.jpg)<br>
+<span class="center bold">App Screenshots</span>
+
+You can read more here: [ReactND Project 2 - Would You Rather - 5. Project Submission](https://james-priest.github.io/reactnd-project-would-you-rather/#5-project-submission)
+
+**Links:**
+- Live Demo: [Would You Rather on Netlify](https://reactnd-would-you-rather.netlify.com/)
+- CodeSandbox: [Would You Rather App@13-application-design](https://codesandbox.io/s/github/james-priest/reactnd-project-would-you-rather/tree/13-application-design/?fontsize=14)
+- Code notes - [ReactND Project 2 - Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 55. React/Redux Polling App No Match 404 Route
 ### Day 55: April 25, 2019 - Thursday
 
