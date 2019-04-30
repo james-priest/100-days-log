@@ -34,15 +34,41 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 57. React Native
+### Day 57: April 27, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn2-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn2.jpg)<br>
+<span class="center bold">React Native</span>
+
+**Progress:** Started React Native course for my React Nanodegree Program.
+
+Today covered what the React Native course would consist of includeing:
+
+- Dev environment setup
+- Ideological & API differences from React
+- Styling & layout patterns
+- Routing patterns
+- Native functionality
+
+You can read more here: [Udacity React Native - 1.1 Course Intro](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#1-react-native)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 56. React/Redux Polling App Project Completed
 ### Day 56: April 26, 2019 - Friday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr75-small.jpg)](https://james-priest.github.io/assets/images/wyr75.jpg)<br>
-<span class="center bold">Project Submission Results</span>
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr77-small.jpg)](https://james-priest.github.io/assets/images/wyr77.jpg)<br>
+<span class="center bold">App Screenshots</span>
 
-**Progress:** Continued React/Redux project for my React Nanodegree Program.
+**Progress:** Completed React/Redux project for my React Nanodegree Program.
 
 I completed and cleaned-up the code to be able to submit this project. Last minute items including:
 
@@ -50,8 +76,8 @@ I completed and cleaned-up the code to be able to submit this project. Last minu
 - Removed all debug & console.log() code
 - Updated README & documentation & posted to GitHub
 
-[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr76-small.jpg)](https://james-priest.github.io/assets/images/wyr76.jpg)<br>
-<span class="center bold">App Screenshots</span>
+[![App](https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr75-small.jpg)](https://james-priest.github.io/assets/images/wyr75.jpg)<br>
+<span class="center bold">Project Submission Results</span>
 
 You can read more here: [ReactND Project 2 - Would You Rather - 5. Project Submission](https://james-priest.github.io/reactnd-project-would-you-rather/#5-project-submission)
 
