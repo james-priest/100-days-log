@@ -34,6 +34,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 59. React Native Dev Steup
+### Day 59: April 29, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn1-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn1.jpg)<br>
+<span class="center bold">Expo Snack UI</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+The last tow days was spend setting up a dev environment. I wanted to use an emulator on my machine rather than my phone. This required extra steps.
+
+- Install Expo-CLI for React Native development
+- Install Java SDK & Android Studio
+- Install additional dependency packages
+- Create Virtual Device
+- Enable Live Reload & Hot Reloading
+
+Alternatively, you can use a web-based tool called [Expo Snack](https://snack.expo.io/) which allows development in the browser. You are limited with the amount of time you have available to use the in-screen emulator.
+
+You can read more here: [Udacity React Native - 1.3 Dev Environment Setup](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#13-dev-environment-setup)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 58. React Native Explained
 ### Day 58: April 28, 2019 - Sunday
 
