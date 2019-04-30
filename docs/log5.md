@@ -5,7 +5,7 @@ pg_bk_color: '#e6e8de'
 header_bk_color: '#1a7f6d'
 link_color: '#1a7f6d'
 ---
-<!-- markdownlint-disable MD022 MD024 MD032 MD033 -->
+<!-- markdownlint-disable MD022 MD024 MD025 MD032 MD033 -->
 
 # James Priest
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
@@ -34,6 +34,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 58. React Native Explained
+### Day 58: April 28, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn3-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn3.jpg)<br>
+<span class="center bold">React Native code</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+This section discussed the ways in which React and React Native share similarities.
+
+Some of the benefits include:
+
+- Leverage JavaScript & React to build apps for both iOS & Android
+- Ability to have a single team write for both iOS & Android platforms
+- Ability for RN apps to compile down to native app code
+
+You can read more here: [Udacity React Native - 1.2 What is React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#12-what-is-react-native)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 57. React Native
 ### Day 57: April 27, 2019 - Saturday
 
@@ -44,7 +70,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:** Started React Native course for my React Nanodegree Program.
 
-Today covered what the React Native course would consist of includeing:
+Today covered what the React Native course would consist of including:
 
 - Dev environment setup
 - Ideological & API differences from React
