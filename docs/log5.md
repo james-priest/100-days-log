@@ -34,7 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 59. React Native Dev Steup
+## 60. React Native Debugging
+### Day 60: April 30, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn5-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn5.jpg)<br>
+<span class="center bold">Android Emulator</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+I spent the day learning about debug capabilities in React Native apps. Here's a short list of the items I worked on:
+
+- Set up an Android Device Emulator
+- Learned about Expo Developer Tools
+- Explored Remote JS Debugging
+- Inspecting UI Elements
+- App Reload
+
+You can read more here: [Udacity React Native - 1.4 Using the Debugger](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#14-using-the-debugger)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
+## 59. React Native Dev Setup
 ### Day 59: April 29, 2019 - Monday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
