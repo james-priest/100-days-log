@@ -34,7 +34,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 62. RN Icons & Header
+## 62. React Native Icons
 ### Day 62: May 2, 2019 - Thursday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
