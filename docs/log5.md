@@ -34,6 +34,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 62. RN Icons & Header
+### Day 62: May 2, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn10-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn10.jpg)<br>
+<span class="center bold">AddEntry categories</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+I started building out the component scaffolding for the Triathlon App. So far I have the following components:
+
+- AddEntry page
+- Stepper control stub
+- Slider control stub
+- DateHeader
+- Icons
+
+You can read more here: [Udacity React Native - 2.6 AddEntry Component](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#26-addentry-component)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 61. RN Triathlon Tracker
 ### Day 61: May 1, 2019 - Wednesday
 
