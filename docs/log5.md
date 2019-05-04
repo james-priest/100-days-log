@@ -34,6 +34,30 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 63. React Native Sliders
+### Day 63: May 3, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn12-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn12.jpg)<br>
+<span class="center bold">Slide component</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+I continued building out the AddEntry component for this Triathlon Tracker app. I added the following:
+
+- Sliders
+- Range Steppers
+- Buttons
+
+You can read more here: [Udacity React Native - 2.10 Update Components](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#210-update-components)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 62. React Native Icons
 ### Day 62: May 2, 2019 - Thursday
 
