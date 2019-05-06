@@ -34,6 +34,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 65. React Native & Redux
+### Day 65: May 5, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn17-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn17.jpg)<br>
+<span class="center bold">Compatibility Error</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+In this lesson I learned about AsyncStorage and combining Redux with React Native.
+
+This works pretty much as is does with React for the web. There were some package dependency issues that had to be resolved but overall it worked fine.
+
+AsyncStorage works like browser localStorage API.
+
+Here's a list of items added
+
+- Actions
+- Reducers
+- Connect, mapStateToProps, & mapDispatch shorthand
+
+You can read more here: [Udacity React Native - 2.12 AsyncStorage](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#212-asyncstorage)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 64. React Native Lists & Forms
 ### Day 64: May 4, 2019 - Saturday
 
