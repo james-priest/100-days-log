@@ -34,6 +34,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 66. React Native Layout
+### Day 66: May 6, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn25-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn25.jpg)<br>
+<span class="center bold">React Native Flexbox</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+In this lesson I learned about CSS in JS for styling and flexbox for layout. It covered the following:
+
+- `StyleSheet.create()`
+- Flex Direction
+- Justify Content
+- Align Items
+- Stretch
+- Centering Content
+- Aligning individual items
+
+You can read more here: [Udacity React Native - 3. Styling & Layout](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#3-styling--layout)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 65. React Native & Redux
 ### Day 65: May 5, 2019 - Sunday
 
