@@ -34,6 +34,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 67. React Native Flexbox
+### Day 67: May 7, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn35-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn35.jpg)<br>
+<span class="center bold">React Native Flexbox</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+In this lesson I implemented styles on my app components. It covered the following:
+
+- Layout
+- Buttons
+- Sliders
+- Text
+- Icons
+
+You can read more here: [Udacity React Native - 3.3 Layout in React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#33-layout-in-react-native)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 66. React Native Layout
 ### Day 66: May 6, 2019 - Monday
 
