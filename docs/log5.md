@@ -34,6 +34,31 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 68. React Native Calendar
+### Day 68: May 8, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn43-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn43.jpg)<br>
+<span class="center bold">React Native Calendar</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+In this lesson I implemented a calendar control that allows me to select a day and associate data to that selected day.
+
+In addition I was able to output the JSON data for that day to the screen.
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn44-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn44.jpg)<br>
+<span class="center bold">React Native Calendar JSON data</span>
+
+You can read more here: [Udacity React Native - 3.5 Calendar History](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#35-calendar-history)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 67. React Native Flexbox
 ### Day 67: May 7, 2019 - Tuesday
 
