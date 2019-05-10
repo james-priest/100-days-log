@@ -34,6 +34,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 69. Triathlon RN App
+### Day 69: May 9, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn46a-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn46a.jpg)<br>
+<span class="center bold">React Native History Component</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+In this lesson I built out the MetricCard Component and styled the UI for each day display.
+
+I also learned about Styled Components and other CSS in JS Libraries.
+
+You can read more here: [Udacity React Native - 3.7 History Styling](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#37-history-styling)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 68. React Native Calendar
 ### Day 68: May 8, 2019 - Wednesday
 
