@@ -34,6 +34,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 71. Stack Navigator Test
+### Day 71: May 11, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn51-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn51.jpg)<br>
+<span class="center bold">Home & Details Screen</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+I spent the day going through the [Getting Started](https://reactnavigation.org/docs/en/getting-started.html) section of the React Navigation docs.
+
+This showed how to build the basics of a Stack Navigator. Also learned how to:
+
+- Style the navbar
+- Pass parameters
+- Use `createStackNavigator` & `createAppContainer` methods
+
+You can read more here: [Udacity React Native - 4. Navigation](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#4-navigation)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 70. React Navigation
 ### Day 70: May 10, 2019 - Friday
 
