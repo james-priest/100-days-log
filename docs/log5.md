@@ -34,6 +34,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 73. Android Tab Navigator
+### Day 73: May 13, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn54-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn54.jpg)<br>
+<span class="center bold">Material Tab Navigator</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+Today I changed the tab implementation so that is uses Material Tab Navigator for Android and iOS tabs navigator for iOS.
+
+The code then checks to see what platform the app is running on to know what UI component to show.
+
+You can read more here: [Udacity React Native - 4.5 Implement Tabs](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#45-implement-tabs)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 72. Native Tab Navigator
 ### Day 72: May 12, 2019 - Sunday
 
