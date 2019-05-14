@@ -34,6 +34,30 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 72. Native Tab Navigator
+### Day 72: May 12, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn53-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn53.jpg)<br>
+<span class="center bold">Tab Navigator</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+Today I implemented tab navigation on my Triathlon app. I learned how to do the following:
+
+- Set `navigationOptions` object for each screen
+- Create `taBarOptions` and tab screens for `createBottomTabNavigator` method  
+- Use `createAppContainer` to output a component
+
+You can read more here: [Udacity React Native - 4.4 Tab Navigator](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#44-tab-navigator)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 71. Stack Navigator Test
 ### Day 71: May 11, 2019 - Saturday
 
