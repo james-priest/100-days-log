@@ -34,6 +34,30 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 75. Native Stack Navigator
+### Day 75: May 15, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn57-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn57.jpg)<br>
+<span class="center bold">Triathlon App - Entry Detail</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+This portion of the app required me to do the following:
+
+- Add a Stack Navigator
+- Combine it with my Tab Navigator
+- Implement navigation from various screens 
+
+You can read more here: [Udacity React Native - 4.8 Stack Navigator](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#48-stack-navigator)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 74. React Native Status Bar
 ### Day 74: May 14, 2019 - Tuesday
 
