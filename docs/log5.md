@@ -34,6 +34,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 74. React Native Status Bar
+### Day 74: May 14, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn55-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn55.jpg)<br>
+<span class="center bold">React Native Status Bar</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+Today I learned about how to style and control the display of the status bar for both Android and iOS devices
+
+You can read more here: [Udacity React Native - 4.6 Status Bar](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#46-statusbar)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 73. Android Tab Navigator
 ### Day 73: May 13, 2019 - Monday
 
