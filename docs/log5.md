@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 77. React Native Location
+### Day 77: May 17, 2019 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn63-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn63.jpg)<br>
+<span class="center bold">Triathlon App - Location</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+Today I learned about [Location services available on React Native through Expo](https://docs.expo.io/versions/v32.0.0/sdk/location/).
+
+This allowed me to access:
+
+- location coordinates
+- heading
+- speed
+- altitude
+
+You can read more here: [Udacity React Native - 5.2 Geolocation](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#52-geolocation)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 76. React Native Live Tab
 ### Day 76: May 16, 2019 - Thursday
 
