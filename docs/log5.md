@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 76. React Native Live Tab
+### Day 76: May 16, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn60-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn60.jpg)<br>
+<span class="center bold">Triathlon App - Live Tab</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+The next section of the course deals with features that are native to each device.  These are things like:
+
+- Geolocation
+- Animations
+- Notifications
+- Photos
+
+This first step involved creating a tab to test these features.
+
+You can read more here: [Udacity React Native - 5. Native Features](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#5-native-features)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 75. Native Stack Navigator
 ### Day 75: May 15, 2019 - Wednesday
 
@@ -48,7 +75,7 @@ This portion of the app required me to do the following:
 
 - Add a Stack Navigator
 - Combine it with my Tab Navigator
-- Implement navigation from various screens 
+- Implement navigation from various screens
 
 You can read more here: [Udacity React Native - 4.8 Stack Navigator](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#48-stack-navigator)
 
