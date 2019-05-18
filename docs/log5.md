@@ -34,12 +34,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 78. React Native Animations & Notifications
+### Day 78: May 18, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn68-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn68.jpg)<br>
+<span class="center bold">Triathlon App - Notifications</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+Today I learned about two React Native libraries.
+
+- Animated
+- Notifications
+
+These allow React Native to use the device's notification system and allow animations and transitions between screens and elements.
+
+You can read more here: [Udacity React Native - 5.3 Animations](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#53-animations)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 77. React Native Location
 ### Day 77: May 17, 2019 - Friday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn63-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn63.jpg)<br>
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn66-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn66.jpg)<br>
 <span class="center bold">Triathlon App - Location</span>
 
 **Progress:** Continued React Native course for my React Nanodegree Program.
