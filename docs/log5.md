@@ -34,6 +34,29 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 79. React Native App Store Preparation
+### Day 79: May 19, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn71-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn71.jpg)<br>
+<span class="center bold">UdaciFitness on Expo site</span>
+
+**Progress:** Continued React Native course for my React Nanodegree Program.
+
+Today I learned about how build both iOS and Android bundle files.
+
+[![App](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn73-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn73.jpg)<br>
+<span class="center bold">Android & iOS Build Process</span>
+
+You can read more here: [Udacity React Native - 5.6 App Store Preparation](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html#56-app-store-preparation)
+
+**Links:**
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 78. React Native Animations & Notifications
 ### Day 78: May 18, 2019 - Saturday
 
