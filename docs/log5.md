@@ -34,6 +34,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 80. Mobile Flashcards App Requirements
+### Day 80: May 27, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc2-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc2.jpg)<br>
+<span class="center bold">Mobile Flashcards App Mockup</span>
+
+**Progress:** Started React Native project for my React Nanodegree Program.
+
+I finally started the last project required to get my React Nanodegree. This is a mobile app that allows you to create decks of flashcards to test yourself with.
+
+I had a hard time starting this one but am hoping I can get it done in the next 5 days.  That will be ambitious since it needs run on both Android and iOS.
+
+It will consist of the following:
+
+- React Native
+- 5-6 app screens
+- Expo Managed build system
+- React Navigation
+- Redux state management
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 1. Project Requirements](https://james-priest.github.io/mobile-flashcards/#1-project-requirements)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+-
 ## 79. React Native App Store Preparation
 ### Day 79: May 19, 2019 - Sunday
 
