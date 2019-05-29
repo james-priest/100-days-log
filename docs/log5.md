@@ -34,6 +34,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 81. Mobile Flashcards App Data & API Methods
+### Day 81: May 28, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc4-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc4.jpg)<br>
+<span class="center bold">API Tests</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+I added various API methods to manipulate data through the use of `AsyncStorage`.
+
+The methods created are:
+
+- `getDecks`: return all of the decks along with their titles, questions, and answers.
+- `getDeck`: take in a single id argument and return the deck associated with that id.
+- `saveDeckTitle`: take in a single title argument and add it to the decks.
+- `addCardToDeck`: take in two arguments, title and card, and will add the card to the list of questions for the deck with the associated title.
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 1.5 Helper Methods](https://james-priest.github.io/mobile-flashcards/#15-helper-methods)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 80. Mobile Flashcards App Requirements
 ### Day 80: May 27, 2019 - Monday
 
@@ -63,7 +91,8 @@ You can read more here: [ReactND Project 3 - Mobile Flashcards - 1. Project Requ
 - Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
--
+---
+
 ## 79. React Native App Store Preparation
 ### Day 79: May 19, 2019 - Sunday
 
