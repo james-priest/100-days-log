@@ -34,6 +34,39 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 82. Mobile Flashcards App Views Part 1
+### Day 82: May 29, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc6-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc6.jpg)<br>
+<span class="center bold">AddDeck View</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+I started creating the different views for this app. These have borders around each section for visual display & alignment.
+
+So far I have the following screens:
+
+- DeckList
+- AddDeck
+- DeckDetail
+
+I have the following components:
+
+- Deck
+- TextButton
+- TouchButton
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 2. Views](https://james-priest.github.io/mobile-flashcards/#2-views)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 81. Mobile Flashcards App Data & API Methods
 ### Day 81: May 28, 2019 - Tuesday
 
