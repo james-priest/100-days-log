@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 83. Mobile Flashcards App Views Part 2
+### Day 83: May 30, 2019 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc8-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc8.jpg)<br>
+<span class="center bold">AddCard View</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+I finished creating the different views for this app. This adds the following screens:
+
+- AddQuestion
+- Quiz
+  - Question
+  - Answer
+  - Results
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 2.4 AddCard](https://james-priest.github.io/mobile-flashcards/#24-addcard)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 82. Mobile Flashcards App Views Part 1
 ### Day 82: May 29, 2019 - Wednesday
 
