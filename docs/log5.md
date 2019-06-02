@@ -34,6 +34,30 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 85. Mobile Flashcards App Navigation Part 2
+### Day 84: June 1, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc16-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc16.jpg)<br>
+<span class="center bold">Mobile Flashcards Stack Navigation</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+I completed the navigation for this app. I did the following:
+
+- Added stack navigators to display the remaining screens
+- Updated styling for better layout & UX
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 3.4 AddCard Navigator](https://james-priest.github.io/mobile-flashcards/#34-addcard-navigator)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 84. Mobile Flashcards App Navigation Part 1
 ### Day 84: May 31, 2019 - Friday
 
