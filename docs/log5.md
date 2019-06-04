@@ -34,8 +34,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 86. Mobile Flashcards App Add Redux
+### Day 86: June 2, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc21-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc21.jpg)<br>
+<span class="center bold">Updated Home Screen</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+I added Redux to my app including:
+
+- Action creators
+- Reducers
+- Store Provider
+- Data initialization using Redux Thunk
+
+Now the home screen is being populated with actual data.
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 4. Redux](https://james-priest.github.io/mobile-flashcards/#4-redux)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 85. Mobile Flashcards App Navigation Part 2
-### Day 84: June 1, 2019 - Saturday
+### Day 85: June 1, 2019 - Saturday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
