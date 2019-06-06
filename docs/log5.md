@@ -34,6 +34,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 87. Mobile Flashcards App Wire-up Add Deck
+### Day 87: June 3, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc24-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc24.jpg)<br>
+<span class="center bold">Add Deck with disabled submit</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+This part of the the development involves connecting the Redux store to my components.
+
+This involved
+
+- field validation to enable/disable submit
+- using react-redux connect() method
+- dispatching the addDeck action creator
+- clearing state
+- using react-navigation to navigate back in the stack
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 5.1 Add Deck](https://james-priest.github.io/mobile-flashcards/#51--add-deck)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 86. Mobile Flashcards App Add Redux
 ### Day 86: June 2, 2019 - Sunday
 
