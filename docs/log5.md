@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 89. Mobile Flashcards App Wire-up Add Card
+### Day 89: June 5, 2019 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc26-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc26.jpg)<br>
+<span class="center bold">Add Card Input Screen</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+This part consisted of wiring up the AddCard component to the redux store.
+
+I used
+
+- mapStateToProps
+- mapDispatchToProps
+- React Navigation
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 5.3 Add Card To Deck](https://james-priest.github.io/mobile-flashcards/#53-add-card-to-deck)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 88. Mobile Flashcards App Wire-up Deck Details
 ### Day 88: June 4, 2019 - Tuesday
 
