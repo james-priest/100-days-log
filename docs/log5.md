@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 88. Mobile Flashcards App Wire-up Deck Details
+### Day 88: June 4, 2019 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc25-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc25.jpg)<br>
+<span class="center bold">Deck Detail with Delete Deck wired-up</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+I had to refactor some code to properly handle the deletion of a store object from the detail page that displayed that data.
+
+Needed to do the following:
+
+- Update Deck component to handle 'undefined' `deck` prop
+- Update DeckDetail to use `shouldComponentUpdate` and suppress update on undefined `deck object
+- Remove `IsRequired` from PropTypes definition
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 5.2 Deck Details](https://james-priest.github.io/mobile-flashcards/#52-deck-details)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 87. Mobile Flashcards App Wire-up Add Deck
 ### Day 87: June 3, 2019 - Monday
 
