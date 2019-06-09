@@ -34,6 +34,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 92. Mobile Flashcards App Add AsyncStorage
+### Day 92: June 8, 2019 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc20-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc20.jpg)<br>
+<span class="center bold">Settings Tab</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+Added AsyncStorage to the app so that data changes will persist between sessions. This was added to:
+
+- Create Deck
+- Add Card to Deck
+- Remove Deck
+- Reset Deck
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 6. AsyncStorage](https://james-priest.github.io/mobile-flashcards/#6-asyncstorage)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 91. Mobile Flashcards App Wire-up iOS Quiz
 ### Day 91: June 7, 2019 - Friday
 
