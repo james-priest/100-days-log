@@ -34,6 +34,30 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 93. Mobile Flashcards App Notifications
+### Day 93: June 9, 2019 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc35-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc35.jpg)<br>
+<span class="center bold">Notifications</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+This step consisted of adding a daily notification reminder. It can be dismissed and resets itself once per day.
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc36-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc36.jpg)<br>
+<span class="center bold">Notifications Menu</span>
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 7. Notifications](https://james-priest.github.io/mobile-flashcards/#7-notifications)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 92. Mobile Flashcards App Add AsyncStorage
 ### Day 92: June 8, 2019 - Saturday
 
