@@ -34,6 +34,29 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 94. Mobile Flashcards App Project Completed
+### Day 94: June 10, 2019 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![App](https://james-priest.github.io/mobile-flashcards/assets/images/mfc37-small.jpg)](https://james-priest.github.io/mobile-flashcards/assets/images/mfc37.jpg)<br>
+<span class="center bold">App Splash Screen</span>
+
+**Progress:** Continued React Native project for my React Nanodegree Program.
+
+I submitted my app and completed the project! It got a great review and passed all the requirements on the first try.
+
+Unfortunately, I turned in my final project 1 week late. Hopefully Udacity will allow me to graduate still.😬🙏
+
+You can read more here: [ReactND Project 3 - Mobile Flashcards - 8. Clean-up](https://james-priest.github.io/mobile-flashcards/#8-clean-up)
+
+**Links:**
+- Code notes: [ReactND Project 3 - Mobile Flashcards](https://james-priest.github.io/mobile-flashcards/)
+- Course notes - [Udacity React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 93. Mobile Flashcards App Notifications
 ### Day 93: June 9, 2019 - Sunday
 
