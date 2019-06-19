@@ -4,23 +4,23 @@ This repo is used to track progress for Alexander Kallaway's 100 Days of Code Ch
 
 It's made available to anyone that would like to fork this repo in order to also track their progress using GitHub Pages. It uses a customized version of the [Leap day theme](https://github.com/pages-themes/leap-day) (see preview [here](https://pages-themes.github.io/leap-day/)) and allows simple customization of page titles & colors schemes.
 
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Serve site](#serve-site)
-  - [Serve site (with with live-reload)](#serve-site-with-with-live-reload)
-- [Deployment](#deployment)
-- [Enable GitHub Pages](#enable-github-pages)
-- [Optimize Images](#optimize-images)
-  - [Grunt Install](#grunt-install)
-  - [Grunt Usage](#grunt-usage)
-  - [Embedding Images in Log](#embedding-images-in-log)
-- [Log Customization](#log-customization)
-- [Miscellaneous](#miscellaneous)
-  - [Recommended Workflow](#recommended-workflow)
-  - [Under the Hood](#under-the-hood)
+- [Overview](#Overview)
+- [Getting Started](#Getting-Started)
+  - [Prerequisites](#Prerequisites)
+  - [Installation](#Installation)
+- [Usage](#Usage)
+  - [Serve site](#Serve-site)
+  - [Serve site (with with live-reload)](#Serve-site-with-with-live-reload)
+- [Deployment](#Deployment)
+- [Enable GitHub Pages](#Enable-GitHub-Pages)
+- [Optimize Images](#Optimize-Images)
+  - [Grunt Install](#Grunt-Install)
+  - [Grunt Usage](#Grunt-Usage)
+  - [Embedding Images in Log](#Embedding-Images-in-Log)
+- [Log Customization](#Log-Customization)
+- [Miscellaneous](#Miscellaneous)
+  - [Recommended Workflow](#Recommended-Workflow)
+  - [Under the Hood](#Under-the-Hood)
 
 ## Overview
 
@@ -205,7 +205,7 @@ Run once to install package dependencies.
 Run each time to enable image optimization with watch folder.
 
 1. Navigate to the `docs` folder off of the root directory.
-2. Run grunt .
+2. Run grunt.
 
     ```bash
     npx grunt
@@ -287,4 +287,3 @@ Here are some paths and their URL mapping.
 | `/docs/my-notes.md` | `https://<username>.github.io/100-days-log/my-notes.html` |
 | `/docs/logs/page1.md` | `https://<username>.github.io/100-days-log/logs/page1.html` |
 | `/docs/school-notes/cs101.md` | `https://<username>.github.io/100-days-log/school-notes/cs101.html` |
-
