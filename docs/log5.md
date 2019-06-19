@@ -34,6 +34,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 95. Resume Makeover
+### Day 95: June 18, 2019 - Tuesday
+
+**Project:** Getting hired at a good company😁😅
+
+[![App](assets/images/r5d95a-small.jpg)](assets/images/r5d95a.jpg)<br>
+<span class="center bold">Old Resume</span>
+
+**Progress:** Completed resume makeover.
+
+I had a three pages resume that was dense, hard to read, and overly complex. It needed to be condensed down to one page so hiring managers could quickly scan for relevant information.
+
+This didn't involve coding but it did involve distilling my skill set and experience into an easy to read format.
+
+[![App](assets/images/r5d95b-small.jpg)](assets/images/r5d95b.jpg)<br>
+<span class="center bold">New Resume</span>
+
+I took the three pages of information and put it on one page. I then showcased my most recent projects on the back as my second page.
+
+I was told that hiring managers and head hunters spend no more than 30 seconds per resume. So you want to make it as easy as possible for them to get the information they need.
+
+**Links:**
+- Resume [Old Format](https://james-priest.github.io/assets/docs/JamesPriest_Resume_2019_v2.pdf)
+- Resume [New Format](https://james-priest.github.io/assets/docs/JamesPriest_Resume.pdf)
+
+---
+
 ## 94. Mobile Flashcards App Project Completed
 ### Day 94: June 10, 2019 - Monday
 
