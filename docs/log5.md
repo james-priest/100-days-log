@@ -34,10 +34,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 96. Website Portfolio Update
+### Day 96: June 22, 2019 - Saturday
+
+**Project:** Getting hired
+
+[![App](assets/images/r5d96c-small.jpg)](assets/images/r5d96.jpg)<br>
+<span class="center bold">Old Resume</span>
+
+**Progress:** Completed portfolio section.
+
+The next set of tasks towards getting hired was to update the portfolio section of my website.
+
+First I made sure that each GitHub repository had a README in place so I could link to it.
+
+I then created three bullet points for each  project describing what the app does and what technologies were used to build it.
+
+Lastly I included links to the following:
+
+- GitHub
+- Live Demo
+- Code Notes
+- Code Sample
+
+**Links:**
+- [James Priest CV Portfolio section](https://james-priest.github.io/#portfolio)
+
+---
+
 ## 95. Resume Makeover
 ### Day 95: June 18, 2019 - Tuesday
 
-**Project:** Getting hired at a good company😁😅
+**Project:** Getting hired
 
 [![App](assets/images/r5d95a-small.jpg)](assets/images/r5d95a.jpg)<br>
 <span class="center bold">Old Resume</span>
