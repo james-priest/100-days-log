@@ -34,13 +34,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 97. LinkedIn Profile Update
+### Day 97: June 23, 2019 - Sunday
+
+**Project:** Getting hired
+
+[![App](assets/images/r5d97b-small.jpg)](assets/images/r5d97b.jpg)<br>
+<span class="center bold">LinkedIn Profile</span>
+
+**Progress:** Completed portfolio section.
+
+Next I updated my LinkedIn Profile by going through the 15 steps detailed in the following article:
+
+- [How to Build an Amazing LinkedIn Profile - [15 proven tips]](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/) by Austin Belcak
+
+The goal is to increase the number of profile views, contact requests, and job offers.
+
+The way to do this is to build an awesome LinkedIn Profile that takes advantage of all the available sections and features but to also do it in a targeted and precise way.
+
+It took me about a week to implement all the items the article recommends. This required getting clear about what I wanted to highlight and the kinds of jobs I want to target.
+
+**Links:**
+- [LinkedIn Profile - James Priest](https://www.linkedin.com/in/jamespriestdeveloper/)
+
+---
+
 ## 96. Website Portfolio Update
 ### Day 96: June 22, 2019 - Saturday
 
 **Project:** Getting hired
 
 [![App](assets/images/r5d96c-small.jpg)](assets/images/r5d96.jpg)<br>
-<span class="center bold">Old Resume</span>
+<span class="center bold">Portfolio Section</span>
 
 **Progress:** Completed portfolio section.
 
