@@ -34,6 +34,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 98. LinkedIn Profile Header
+### Day 98: June 24, 2019 - Monday
+
+**Project:** Getting hired
+
+[![App](assets/images/r5d98a-small.jpg)](assets/images/r5d98a.jpg)<br>
+<span class="center bold">LinkedIn Profile</span>
+
+**Progress:** Continued updating profile.
+
+Next I worked on updating the following items from the [How to Build an Amazing LinkedIn Profile - [15 proven tips]](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/) article.
+
+- Profile image
+- Background photo
+- Headline
+
+Here's a statistic from the article:
+
+> *The data also shows that profiles with custom profile pictures and cover photos see 21x more profile views, 9x more connection requests, and 36x more messages than people using defaults!*
+
+An optimized Headline with keywords pertaining to desired job role and skill set increases profile views and improves weighted relevancy when recruiters are searching on skill set.
+
+**Links:**
+- [How to Build an Amazing LinkedIn Profile - [15 proven tips]](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/) by Austin Belcak
+- [LinkedIn Profile - James Priest](https://www.linkedin.com/in/jamespriestdeveloper/)
+
+---
+
 ## 97. LinkedIn Profile Update
 ### Day 97: June 23, 2019 - Sunday
 
@@ -42,7 +70,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [![App](assets/images/r5d97b-small.jpg)](assets/images/r5d97b.jpg)<br>
 <span class="center bold">LinkedIn Profile</span>
 
-**Progress:** Completed portfolio section.
+**Progress:** Started updating profile
 
 Next I updated my LinkedIn Profile by going through the 15 steps detailed in the following article:
 
