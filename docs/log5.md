@@ -34,8 +34,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 100. LinkedIn Skills & Endorsements
+### Day 100: June 26, 2019 - Wednesday
+
+**Project:** Getting hired
+
+[![App](assets/images/r5d100-small.jpg)](assets/images/r5d100.jpg)<br>
+<span class="center bold">LinkedIn Skills</span>
+
+**Progress:** Continued updating profile.
+
+Next I leaned about how to increase profile view with Skills and Endorsements.
+
+- [How to Build an Amazing LinkedIn Profile - [15 proven tips]](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/).
+
+The skills you add play into the searchability of your profile. Those skills act as keywords and will help you show up at the top of search results. 
+
+**Profiles with 5+ skills see 17x more profile views** than people with less than five:
+
+[![App](assets/images/r5d100a-small.jpg)](assets/images/r5d100a.jpg)<br>
+<span class="center bold">Searchable LinkedIn Skills</span>
+
+**Links:**
+- [How to Build an Amazing LinkedIn Profile - [15 proven tips]](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/) by Austin Belcak
+- [LinkedIn Profile - James Priest](https://www.linkedin.com/in/jamespriestdeveloper/)
+
+---
+
 ## 99. LinkedIn Summary & Experience
-### Day 98: June 25, 2019 - Tuesday
+### Day 99: June 25, 2019 - Tuesday
 
 **Project:** Getting hired
 
