@@ -34,6 +34,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 99. LinkedIn Summary & Experience
+### Day 98: June 25, 2019 - Tuesday
+
+**Project:** Getting hired
+
+[![App](assets/images/r5d99b-small.jpg)](assets/images/r5d99b.jpg)<br>
+<span class="center bold">LinkedIn Summary</span>
+
+**Progress:** Continued updating profile.
+
+Next I used [How to Build an Amazing LinkedIn Profile - [15 proven tips]](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/) as a guide to  update the following sections.
+
+- About
+- Experience
+- Education
+- Licenses & Certifications
+
+[![App](assets/images/r5d99c-small.jpg)](assets/images/r5d99c.jpg)<br>
+<span class="center bold">LinkedIn Experience</span>
+
+[![App](assets/images/r5d99d-small.jpg)](assets/images/r5d99d.jpg)<br>
+<span class="center bold">LinkedIn Certifications</span>
+
+**Links:**
+- [How to Build an Amazing LinkedIn Profile - [15 proven tips]](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/) by Austin Belcak
+- [LinkedIn Profile - James Priest](https://www.linkedin.com/in/jamespriestdeveloper/)
+
+---
+
 ## 98. LinkedIn Profile Header
 ### Day 98: June 24, 2019 - Monday
 
