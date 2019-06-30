@@ -1,9 +1,9 @@
 ---
 title: 100 Days of Code - Round 6
 description: by James Priest
-pg_bk_color: '#dee8e5'
+pg_bk_color: '#dee3e8'
 header_bk_color: '#bf4747'
-link_color: '#1a7f6d'
+link_color: '#b32424'
 ---
 <!-- markdownlint-disable MD022 MD024 MD025 MD032 MD033 -->
 
