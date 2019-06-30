@@ -51,6 +51,9 @@ JAMstack is the newest stack in the evolution of development for the web. It rep
 
 I to does this by decoupling the CMS content (data) from the website (presentation & structure).
 
+[![App](assets/images/r6d1a-small.jpg)](assets/images/r6d1a.jpg)<br>
+<span class="center bold">Stacks Compared</span>
+
 This allows the website to be statically generated. It pulls in data through API calls. The static site can then be served by CDNs (Content Delivery Network) without the need for a server.
 
 **Links:**
