@@ -53,8 +53,11 @@ It needed to use a build system and will be reviewed for:
 - pixel perfect recreation of the mockup
 - end product results
 
+The instructions for the assignment are here: [vickys-flowers/docs/INSTRUCTIONS.md](https://github.com/james-priest/vickys-flowers/blob/master/docs/INSTRUCTIONS.md).
+
 **Links:**
 - GitHub - [Vicky's Flowers](https://github.com/james-priest/vickys-flowers)
+- Live Site - [https://vickys-flowers.netlify.com/](https://vickys-flowers.netlify.com/)
 
 ---
 
