@@ -32,6 +32,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 2. Take-home Test
+### Day 2: July 8, 2019 - Monday
+
+**Project:** Take-home Test
+
+[![App](assets/images/r6d2a-small.jpg)](assets/images/r6d2a.jpg)<br>
+<span class="center bold">Mock-up</span>
+
+**Progress:**
+
+I was given a take-home test by a company I've been interviewing with. The role is for Sr. Front-End Engineer.
+
+The assignment was to take a comp and build a fully functional and responsive e-commerce page.
+
+It needed to use a build system and will be reviewed for:
+
+- organization
+- readability of code
+- pixel perfect recreation of the mockup
+- end product results
+
+**Links:**
+- GitHub - [Vicky's Flowers](https://github.com/james-priest/vickys-flowers)
+
+---
+
 ## 1. JAMstack Discovered
 ### Day 1: June 29, 2019 - Saturday
 
@@ -61,4 +87,3 @@ This allows the website to be statically generated. It pulls in data through API
 - Snipcart Blog - [JAMstack in 2019](https://snipcart.com/blog/jamstack)
 
 ---
-
