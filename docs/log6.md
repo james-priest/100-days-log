@@ -42,16 +42,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-I was given a take-home test by a company I've been interviewing with. The role is for Sr. Front-End Engineer.
+I was given a take-home test by a company I've been interviewing with. This was in lieu of a whiteboard session or live coding technical interview . The role is for Sr. Front-End Engineer.
 
 The assignment was to take a comp and build a fully functional and responsive e-commerce page.
 
-It needed to use a build system and will be reviewed for:
+It needed to use a build system and was reviewed for:
 
-- organization
-- readability of code
-- pixel perfect recreation of the mockup
-- end product results
+- Organization
+- Readability of code
+- Pixel perfect recreation of the mockup
+- End product results
+
+The other elements it needed to have were:
+
+- Drag and drop capability
+- Dynamic update of shopping cart
+- Randomized values in drop-down select inputs
 
 The instructions for the assignment are here: [vickys-flowers/docs/INSTRUCTIONS.md](https://github.com/james-priest/vickys-flowers/blob/master/docs/INSTRUCTIONS.md).
 
