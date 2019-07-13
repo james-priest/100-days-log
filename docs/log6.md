@@ -32,10 +32,49 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 3. Online Technical Test
+### Day 3: July 10, 2019 - Wednesday
+
+**Project:** Technical Interview
+
+[![App](assets/images/r6d3-small.jpg)](assets/images/r6d3.jpg)<br>
+<span class="center bold">Test Score</span>
+
+**Progress:**
+
+I took a timed technical test as part of the interview process for a job today. It covered:
+
+- JavaScript
+- React.js
+- Node.js
+- HTML/CSS/DOM
+
+I'm pretty good at all these things but did horribly on this test. The frustrating part was that I over-thought each and every problem.
+
+Watching the time tick down as I struggled to debug and work the problems in my editor didn't help either.
+
+Once the test was done, I reviewed the problems. In most cases the solutions turned out to be so simple and straight-forward. These were things like missing parenthesis or out of order function calls.
+
+The moral of the story is to breathe and look for the obvious issues first. I was thinking I had to refactor and utilize obscure language constructs, but this often wasn't the case.
+
+Here are a couple samples...
+
+[![App](assets/images/r6d3a-small.jpg)](assets/images/r6d3a.jpg)<br>
+<span class="center bold">Problem 1</span>
+
+[![App](assets/images/r6d3b-small.jpg)](assets/images/r6d3b.jpg)<br>
+<span class="center bold">Problem 2</span>
+
+<!-- **Links:**
+- GitHub - [Vicky's Flowers](https://github.com/james-priest/vickys-flowers)
+- Live Site - [https://vickys-flowers.netlify.com/](https://vickys-flowers.netlify.com/) -->
+
+---
+
 ## 2. Take-home Test
 ### Day 2: July 8, 2019 - Monday
 
-**Project:** Take-home Test
+**Project:** Technical Interview
 
 [![App](assets/images/r6d2a-small.jpg)](assets/images/r6d2a.jpg)<br>
 <span class="center bold">Mock-up</span>
