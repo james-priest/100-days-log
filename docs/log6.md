@@ -32,7 +32,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 3. Online Technical Test
+## 3. Technical Test Fail
 ### Day 3: July 10, 2019 - Wednesday
 
 **Project:** Technical Interview
