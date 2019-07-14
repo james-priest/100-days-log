@@ -32,6 +32,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 4. React/Redux Skills Test
+### Day 4: July 12, 2019 - Friday
+
+**Project:** Technical Interview
+
+[![App](assets/images/r6d4-small.jpg)](assets/images/r6d4.jpg)<br>
+<span class="center bold">Redux actions</span>
+
+**Progress:**
+
+I took a few days to recreate the take-home test I was given and build it using React and Redux.
+
+This was a good exercise in using a centralized state management solution a provided practice with the following:
+
+- Action creators
+- Reducers
+- Async Redux with Redux Thunk
+- Promises
+- Async & Await
+
+Also added spinners to indicate Async calls.
+
+[![App](assets/images/r6d4a-small.jpg)](assets/images/r6d4a.jpg)<br>
+<span class="center bold">Async spinners</span>
+
+**Links:**
+- GitHub - [Vicky's Flowers React Redux](https://github.com/james-priest/vickys-flowers-react-redux)
+- Demo of Vanilla JS, DOM, & CSS version - [https://vickys-flowers.netlify.com/](https://vickys-flowers.netlify.com/)
+
+---
+
 ## 3. Technical Test Fail
 ### Day 3: July 10, 2019 - Wednesday
 
