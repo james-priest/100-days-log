@@ -32,6 +32,48 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 5. Static Site Generators
+### Day 5: July 13, 2019 - Saturday
+
+**Project:** R & D
+
+[![App](assets/images/r6d5-small.jpg)](assets/images/r6d5.jpg)<br>
+<span class="center bold">Static Site Generators</span>
+
+**Progress:**
+
+I spent some time digging into the world of [Static Site Generators (SSGs)](https://www.staticgen.com/about).
+
+SSGs are solutions built on top of the [JAMstack](https://jamstack.org/) . JAMStack is a new way of architecting sites that relies on JavaScript, APIs, & prerendered Markup served without webservers.
+
+Instead these are served from CDNs, Git repositories, or Static Site Generator Hosting like [Netlify](https://www.netlify.com/).
+
+> When we talk about “The Stack,” we no longer talk about operating systems, specific web servers, backend programming languages, or databases.
+>
+> The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
+
+Examples of SSGs are:
+
+- Next.js
+- Jekyll
+- Hugo
+- Gatsby
+- React Static
+
+They can easily be deployed to Netlify from a GitHub repo. In fact, it's even easier than that.  Netlify built a [1-click deploy](https://www.staticgen.com/) that creates a repo and deploys a static starter site in one shot.
+
+[![App](assets/images/r6d5a-small.jpg)](assets/images/r6d5a.jpg)<br>
+<span class="center bold">Static Site Generators</span>
+
+Check out the links below for more information.
+
+**Links:**
+- [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites.
+- [StaticGen - About](https://www.staticgen.com/about) - What is a Static Site Generator?
+- [Netlify](https://www.netlify.com/) - Static Site Hosting along with continuous deployment, serverless functions, etc.
+
+---
+
 ## 4. React/Redux Skills Test
 ### Day 4: July 12, 2019 - Friday
 
