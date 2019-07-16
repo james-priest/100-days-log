@@ -32,6 +32,48 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 6. On-Site Technical Interview @ Honey
+### Day 6: July 15, 2019 - Monday
+
+**Project:** Technical Interview @ Honey
+
+[![App](assets/images/r6d6-small.jpg)](assets/images/r6d6.jpg)<br>
+<span class="center bold">Honey Headquarters</span>
+
+**Progress:**
+
+Today I had an amazing experience. I interviewed for 5 straight hours at a company called Honey. I was given a tour, learned about the company, and was whiteboarded thoroughly.
+
+The technical skills assessments covered four distinct areas.
+
+- HTML/CSS
+- JavaScript ES6
+- React.js & Frameworks
+- Interactive Design
+
+Each one took about an hour and was guided along by either one or two engineers.
+
+A problem was presented in each area and the task was to do the following:
+
+- Understand the problem by asking clarifying questions.
+- Determine any edge case scenarios.
+- Code a solution to solve the problem.
+
+The one thing that became abundantly clear was that everyone at this company was really smart. The level of expertise and knowledge was exceptional which helped fuel my excitement at the prospect of working with these folks.
+
+Beyond that, the company culture is one of diversity, inclusion, and a passion to provide savings to customers on a massive scale.
+
+Now I wait to hear back and see if I made the cut and if there was a good fit.
+
+Oh, and I got this cool swag bag!
+
+[![App](assets/images/r6d6a-small.jpg)](assets/images/r6d6a.jpg)<br>
+<span class="center bold">Honey Swag Bag</span>
+
+**Links:**
+- [Build In LA - 100 Best Place to Work in Los Angeles 2019](https://www.builtinla.com/companies/best-places-to-work-los_angeles-2019) (Honey is #1)
+- [Build in LA - Honey company profile](https://www.builtinla.com/company/honey)
+
 ## 5. Static Site Generators
 ### Day 5: July 13, 2019 - Saturday
 
