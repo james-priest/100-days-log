@@ -32,6 +32,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 7. Learn Teach Code Meetup
+### Day 7: July 16, 2019 - Tuesday
+
+**Project:** Networking
+
+[![App](assets/images/r6d7-small.jpg)](assets/images/r6d7.jpg)<br>
+<span class="center bold">Learn Teach Code Meetup</span>
+
+**Progress:**
+
+Today I went to my weekly Learn Teach Code Meetup ([https://learnteachcode.org/](https://learnteachcode.org/)).
+
+This has been a great way to get out and network with other developers who want to exchange ideas, code together, get help, or discuss job hunting.  
+
+Most folks in the group are training to level up or are in the process of trying to find a job.
+
+It's tough because every job wants 2-3 years of [fill in the blank] experience. This makes it super tough to break into for anyone who's just mastering a new technology or skill.
+
+On a related note, I met up with [VJ Hawkins](https://twitter.com/vjhawkins1), one of my [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode&src=tyah) Twitter fam. In fact, this was the first time I've had a chance to meet one of my fellow [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode&src=tyah) crew IRL.
+
+[![App](assets/images/r6d7a-small.jpg)](assets/images/r6d7a.jpg)<br>
+<span class="center bold">VJ & Myself</span>
+
+Had a great time discussing the struggle of securing a tech job in this highly competitive space.  
+
+**Links:**
+- [Learn Teach Code](https://learnteachcode.org/)
+- [Burbank Coding Study Group Meetup](https://www.meetup.com/LearnTeachCode/events/262955378/)
+
 ## 6. On-Site Technical Interview @ Honey
 ### Day 6: July 15, 2019 - Monday
 
