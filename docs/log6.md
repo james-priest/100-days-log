@@ -38,7 +38,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Project:** Practice Whiteboarding Algorithms + Data Structures
 
 [![App](assets/images/r6d8-small.jpg)](assets/images/r6d8.jpg)<br>
-<span class="center bold"></span>
+<span class="center bold">Course Overview</span>
 
 **Progress:**
 
@@ -51,6 +51,9 @@ This is an awesome course that specifically prepares you to be whiteboarded.  Be
 Now that I've done a few interviews and technical assessments, I have a sense of what's really needed to nail the code challenges so that you are more likely to get that job offer.
 
 This course does just that by focusing on the techniques necessary to problem solve on the spot. It also give you the tools to look at each problem as a set of steps that can be decomposed into manageable chunks.
+
+[![App](assets/images/r6d8a-small.jpg)](assets/images/r6d8a.jpg)<br>
+<span class="center bold">Typical Code Exercise</span>
 
 **Links:**
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
