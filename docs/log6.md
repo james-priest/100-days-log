@@ -32,6 +32,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 9. Beginning Algorithms
+### Day 9: July 19, 2019 - Friday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d9-small.jpg)](assets/images/r6d9.jpg)<br>
+<span class="center bold">Reverse a number</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+I learned the following algorithms & techniques.
+
+- Reverse a string
+- Reverse a number
+- Palindrome
+- Anagrams
+- Array Chunking
+- Fizzbuzz
+- Character Maps
+
+[![App](assets/images/r6d9a-small.jpg)](assets/images/r6d9a.jpg)<br>
+<span class="center bold">Create a CharMap</span>
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+
+---
+
 ## 8. The Coding Interview Bootcamp - Grider
 ### Day 8: July 17, 2019 - Wednesday
 
@@ -57,6 +89,8 @@ This course does just that by focusing on the techniques necessary to problem so
 
 **Links:**
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+
+---
 
 ## 7. Learn Teach Code Meetup
 ### Day 7: July 16, 2019 - Tuesday
@@ -86,6 +120,8 @@ Had a great time discussing the struggle of securing a tech job in this highly c
 **Links:**
 - [Learn Teach Code](https://learnteachcode.org/)
 - [Burbank Coding Study Group Meetup](https://www.meetup.com/LearnTeachCode/events/262955378/)
+
+---
 
 ## 6. On-Site Technical Interview @ Honey
 ### Day 6: July 15, 2019 - Monday
@@ -128,6 +164,8 @@ Oh, and I got this cool swag bag!
 **Links:**
 - [Build In LA - 100 Best Place to Work in Los Angeles 2019](https://www.builtinla.com/companies/best-places-to-work-los_angeles-2019) (Honey is #1)
 - [Build in LA - Honey company profile](https://www.builtinla.com/company/honey)
+
+---
 
 ## 5. Static Site Generators
 ### Day 5: July 13, 2019 - Saturday
