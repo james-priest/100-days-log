@@ -32,13 +32,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 10. Array & String Algorithms
+### Day 10: July 20, 2019 - Saturday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d10-small.jpg)](assets/images/r6d10.jpg)<br>
+<span class="center bold">Capitalize every word</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+I reviewed yesterday's algorithms and worked on a few new ones.
+
+- Capitalize
+- More Anagrams
+- Object Character Maps
+
+[![App](assets/images/r6d10a-small.jpg)](assets/images/r6d10a.jpg)<br>
+<span class="center bold">Questions requiring a CharMap</span>
+
+Any of these require that we create an object whose keys are the characters and the value is the number of occurances.
+
+[![App](assets/images/r6d10b-small.jpg)](assets/images/r6d10b.jpg)<br>
+<span class="center bold">Anagram use of CharMap</span>
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+
+---
+
 ## 9. Beginning Algorithms
 ### Day 9: July 19, 2019 - Friday
 
 **Project:** Practice Whiteboarding Algorithms + Data Structures
 
 [![App](assets/images/r6d9-small.jpg)](assets/images/r6d9.jpg)<br>
-<span class="center bold">Reverse a number</span>
+<span class="center bold">Anagrams</span>
 
 **Progress:**
 
