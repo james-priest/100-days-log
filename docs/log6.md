@@ -32,6 +32,96 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 11. Recursion & Matrix Algorithms
+### Day 11: July 22, 2019 - Monday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d11-small.jpg)](assets/images/r6d11.jpg)<br>
+<span class="center bold">Spiral Matrix</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+Now we're getting into some more complex algorithms including
+
+- Nested Loops
+- Recursion
+- Spiral Matrix
+
+```js
+// --- Directions
+// Write a function that accepts an integer N
+// and returns a NxN spiral matrix.
+// --- Examples
+//   matrix(2)
+//     [[1, 2],
+//     [4, 3]]
+//   matrix(3)
+//     [[1, 2, 3],
+//     [8, 9, 4],
+//     [7, 6, 5]]
+//  matrix(4)
+//     [[1,   2,  3, 4],
+//     [12, 13, 14, 5],
+//     [11, 16, 15, 6],
+//     [10,  9,  8, 7]]
+
+function matrix(n) {
+  // build nested arrays first
+  const results = [];
+  for (let i = 0; i < n; i++) {
+    results.push([]);
+  }
+  let counter = 1;
+  let startRow = 0,
+    endRow = n - 1,
+    startCol = 0,
+    endCol = n - 1;
+
+  while (startCol <= endCol && startRow <= endRow) {
+    //  Top row
+    for (let i = 0; i <= endCol; i++) {
+      results[startCol][i] = counter++;
+    }
+    startRow++;
+
+    // Right column
+    for (let i = startRow; i <= endRow; i++) {
+      results[i][endCol] = counter++;
+    }
+    endCol--;
+
+    // Bottom row
+    for (let i = endCol; i >= startCol; i--) {
+      results[endRow][i] = counter++;
+    }
+    endRow--;
+
+    // Left side
+    for (let i = endRow; i >= startRow; i--) {
+      results[i][startCol] = counter++;
+    }
+    startCol++;
+  }
+
+  return results;
+}
+```
+
+The formula for building recursion consists of a few key steps.
+
+[![App](assets/images/r6d11a-small.jpg)](assets/images/r6d11a.jpg)<br>
+<span class="center bold">Recursion Steps</span>
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+
+---
+
 ## 10. Array & String Algorithms
 ### Day 10: July 20, 2019 - Saturday
 
@@ -55,7 +145,7 @@ I reviewed yesterday's algorithms and worked on a few new ones.
 [![App](assets/images/r6d10a-small.jpg)](assets/images/r6d10a.jpg)<br>
 <span class="center bold">Questions requiring a CharMap</span>
 
-Any of these require that we create an object whose keys are the characters and the value is the number of occurances.
+Any of these require that we create an object whose keys are the characters and the value is the number of occurrences.
 
 [![App](assets/images/r6d10b-small.jpg)](assets/images/r6d10b.jpg)<br>
 <span class="center bold">Anagram use of CharMap</span>
