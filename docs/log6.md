@@ -32,6 +32,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 12. Runtime Complexity
+### Day 12: July 23, 2019 - Tuesday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d12-small.jpg)](assets/images/r6d12.jpg)<br>
+<span class="center bold">Runtime Complexity</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+The lessons now cover subjects like:
+
+- Runtime complexity
+- Big O Notation
+- Memoization
+
+Reducing runtime complexity can be accomplished through memoization. This is done by having a function return the cached results that function has already been called with the dame values. 
+
+[![App](assets/images/r6d12a-small.jpg)](assets/images/r6d12a.jpg)<br>
+<span class="center bold">Memoization</span>
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+
+---
+
 ## 11. Recursion & Matrix Algorithms
 ### Day 11: July 22, 2019 - Monday
 
