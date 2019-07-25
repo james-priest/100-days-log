@@ -32,6 +32,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 13. Data Structures - Queue
+### Day 13: July 24, 2019 - Wednesday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d13-small.jpg)](assets/images/r6d13.jpg)<br>
+<span class="center bold">Data Structures</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+The lesson started covering data structures and how to create these through code and in memory to handle various schemas.
+
+[![App](assets/images/r6d13a-small.jpg)](assets/images/r6d13a.jpg)<br>
+<span class="center bold">Queue</span>
+
+Although JavaScript has optimized methods on the Array object to handle data structures, we may be asked to code these in an interview.
+
+This can be accomplished by creating a class and wrapping the necessary Array methods.
+
+[![App](assets/images/r6d13b-small.jpg)](assets/images/r6d13b.jpg)<br>
+<span class="center bold">Queue Class</span>
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+
+---
+
 ## 12. Runtime Complexity
 ### Day 12: July 23, 2019 - Tuesday
 
@@ -52,7 +83,7 @@ The lessons now cover subjects like:
 - Big O Notation
 - Memoization
 
-Reducing runtime complexity can be accomplished through memoization. This is done by having a function return the cached results that function has already been called with the dame values. 
+Reducing runtime complexity can be accomplished through memoization. This is done by having a wrapper function return cached results of a function call without having to invoke that function again.
 
 [![App](assets/images/r6d12a-small.jpg)](assets/images/r6d12a.jpg)<br>
 <span class="center bold">Memoization</span>
