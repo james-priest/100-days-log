@@ -32,6 +32,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 14. Data Structures - Stack
+### Day 14: July 25, 2019 - Thursday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d14-small.jpg)](assets/images/r6d14.jpg)<br>
+<span class="center bold">Stack Methods</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+This lesson covered creating a class that acts as a wrapper to Array which only allows the following methods.
+
+- push()
+- pop()
+- peek()
+
+[![App](assets/images/r6d14a-small.jpg)](assets/images/r6d14a.jpg)<br>
+<span class="center bold">Stack process</span>
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+
+---
+
 ## 13. Data Structures - Queue
 ### Day 13: July 24, 2019 - Wednesday
 
