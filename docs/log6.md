@@ -32,6 +32,57 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 15. Data Structures - Linked Lists
+### Day 15: July 26, 2019 - Friday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d15-small.jpg)](assets/images/r6d15.jpg)<br>
+<span class="center bold">Linked List Attributes</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+This lesson got into the world of linked lists. It's a beautiful data structure that allows you to chain data elements together.
+
+[![App](assets/images/r6d15a-small.jpg)](assets/images/r6d15a.jpg)<br>
+<span class="center bold">Linked List Nodes</span>
+
+Nodes are instances of the Nodes class and are objects consisting of two properties
+
+- data - data associated with this node
+- next - a pointer to the next node or null for last node
+
+[![App](assets/images/r6d15c-small.jpg)](assets/images/r6d15c.jpg)<br>
+<span class="center bold">Node Chaining</span>
+
+Next we can create a LinkedList Class to manage our list.
+
+[![App](assets/images/r6d15b-small.jpg)](assets/images/r6d15b.jpg)<br>
+<span class="center bold">LinkedList Class</span>
+
+The LinkedList class has a single property and multiple methods for manipulating the lists.
+
+- head (property) - first node
+- insertFirst()
+- size()
+- getFirst()
+- getLast()
+- clear()
+- removeFirst()
+- removeLast()
+- insertLast()
+- *[additional methods...]*
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+- My GitHub Repo - [Coding Interview Bootcamp](https://github.com/james-priest/coding-interview-bootcamp)
+
+---
+
 ## 14. Data Structures - Stack
 ### Day 14: July 25, 2019 - Thursday
 
