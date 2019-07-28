@@ -32,6 +32,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 16. Data Structures - More Linked List Methods
+### Day 16: July 27, 2019 - Saturday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d16-small.jpg)](assets/images/r6d16.jpg)<br>
+<span class="center bold">getAt() method diagram</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+I completed a dozen methods which are part of the LinkedList class that allows manipulation of the list.
+
+Once complete, we looked at how to condense the methods through code reuse.
+
+[![App](assets/images/r6d16a-small.jpg)](assets/images/r6d16a.jpg)<br>
+<span class="center bold">Method consolidation</span>
+
+Lastly, the course required us to implement iterator methods.
+
+- forEach()
+- for...of
+
+`for...of` required the use of generators.
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+- My GitHub Repo - [Coding Interview Bootcamp](https://github.com/james-priest/coding-interview-bootcamp)
+
+---
+
 ## 15. Data Structures - Linked Lists
 ### Day 15: July 26, 2019 - Friday
 
