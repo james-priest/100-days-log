@@ -32,6 +32,84 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 17. Interviews & Job Offers
+### Day 17: August 1, 2019 - Thursday
+
+**Project:** Getting Hired
+
+[![App](assets/images/r6d17a-small.jpg)](assets/images/r6d17a.jpg)
+
+**Progress:**
+
+I've been deep in the world of tech interviews for the last 4 weeks. For anyone not familiar with these, here's a rough chronological order.
+
+1. Screener interview with a recruiter (15-30 min)
+2. Behavior interview usually with hiring manager (30-60 min)
+3. Technical skills assessment - timed test, live coding, or take home project (60 min)
+4. In-person technical interview with whiteboarding (1-4 hours)
+
+[![App](assets/images/r6d17-small.jpg)](assets/images/r6d17.jpg)
+
+If you pass each of these then an offer will be made. That process goes like this:
+1. Initial offer made
+2. You accept
+3. Formal offer drawn up
+4. Background check - can consist of: local, state, federal, credit score, online activity, social media, judgements, liens, lawsuits, arrests, bankruptcies, etc.
+
+If you pass all this then you are officially **hired**!
+
+Each one of these steps acts as a gatekeeper so if you don't pass one you don't get to progress to the next.
+
+The whole process can take weeks for a single position. Managing this for multiple job openings can be overwhelming and is a full-time job by itself.
+
+Here's how things went for me over the last 4 weeks.
+
+- Submitted resume to about 80 jobs openings
+- Had 15-20 screener interviews
+- 10 Behavioral interviews
+- 8 skills assessments
+- 4 job offers
+
+I'm fortunate because I have a long work history and lots of expereince in web development.
+
+For new developers the breakdown may go like this:
+
+- Submit resume to 100 job openings
+- Get 10 responses
+- Do 5 behavioral interviews
+- Get through 3 tech assessments
+- Get 1 job offer
+
+The key is not to get discouraged. The reward is well worth the effort once you do find that place which is willing to bring you on board.
+
+Also, it doesn't need to be the best place to work at when you're just getting experience. Sometimes we need to work a less than ideal job for 6 months or a year in order to get that experience. Once you have that then companies will bid against each other to win you over.
+
+For me it was crazy because I had gotten no job offers until the last few days of the last week. Then they all came in within 3 days of each other.
+
+The salaries spanned a broad range with the most moderate salaries being offered by the places that are the best to work at. The crumby places will often lure you in with high salary offers only to end up working you to death.
+
+Here's how I separated the 4 places that offered me a job.
+
+**Software companies** (This is where you want to work)
+
+- Software company with a SaaS product - Best employee perks (game room, free snacks, catered lunch, moderate pace, stock options, high value on employees)
+- Services company with e-commerce website - Great perks (game room, fully stocked kitchen, flex time, remote days, top equipment, stock options, high value on employees)
+
+**Add Agencies / Production Companies** (Don't work here)
+
+- Digital Publishing Company - No perks (On call; dev, maintenance, & support are jobs of the developer; office job with little down time)
+- Ad Agency with high-volume production work - High salary, high stress, few perks - (Office setup like a boiler room; high value on client / low value on devs; burn-out and low moral is common as well as outright deception by management)
+
+I almost made the horrible mistake of accepting a position for lots of money only to read [the most horrible company reviews](https://www.glassdoor.com/Reviews/Elephant-Reviews-E1486214.htm).
+
+I quickly broke our agreement and walked away before I got sucked in. The biggest red flag was that the recruiting company lied to me about the terms of the contract before I even started. They promised things which they then refused to put in writing.
+
+I ended up accepting an offer at the software company for 35k less per year but this is a place where the employees have [nothing but good things to say about the company](https://www.glassdoor.com/Reviews/Everbridge-Pasadena-Reviews-EI_IE361320.0,10_IL.11,19_IC1146850.htm).
+
+Having worked at an agency for a dozen years, I feel like I dodged a bullet and am finally going to work at a place that values its employees above all else.
+
+---
+
 ## 16. Data Structures - More Linked List Methods
 ### Day 16: July 27, 2019 - Saturday
 
