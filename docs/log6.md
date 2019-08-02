@@ -45,7 +45,10 @@ I've been deep in the world of tech interviews for the last 4 weeks. For anyone 
 
 1. Screener interview with a recruiter (15-30 min)
 2. Behavior interview usually with hiring manager (30-60 min)
-3. Technical skills assessment - timed test (60 min), live coding (60 min), or take home project (3-5 days)
+3. Technical skills assessment (one of these)
+   - timed test (60 min)
+   - live coding (60 min)
+   - take home project (3-5 days)
 4. In-person technical interview with whiteboarding (1-4 hours)
 
 [![App](assets/images/r6d17-small.jpg)](assets/images/r6d17.jpg)
