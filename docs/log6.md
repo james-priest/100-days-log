@@ -45,7 +45,7 @@ I've been deep in the world of tech interviews for the last 4 weeks. For anyone 
 
 1. Screener interview with a recruiter (15-30 min)
 2. Behavior interview usually with hiring manager (30-60 min)
-3. Technical skills assessment - timed test, live coding, or take home project (60 min)
+3. Technical skills assessment - timed test (60 min), live coding (60 min), or take home project (3-5 days)
 4. In-person technical interview with whiteboarding (1-4 hours)
 
 [![App](assets/images/r6d17-small.jpg)](assets/images/r6d17.jpg)
@@ -98,15 +98,15 @@ Here's how I separated the 4 places that offered me a job.
 **Add Agencies / Production Companies** (Don't work here)
 
 - Digital Publishing Company - No perks (On call; dev, maintenance, & support are jobs of the developer; office job with little down time)
-- Ad Agency with high-volume production work - High salary, high stress, few perks - (Office setup like a boiler room; high value on client / low value on devs; burn-out and low moral is common as well as outright deception by management)
+- Ad Agency with high-volume production work - High salary, high stress, few perks - (Office setup like a boiler room; high value on client / low value on devs; burn-out and low moral is common as well as outright deception by management; no employee loyalty and if the contract doesn't get renewed, management lays off the staff)
 
 I almost made the horrible mistake of accepting a position for lots of money only to read [the most horrible company reviews](https://www.glassdoor.com/Reviews/Elephant-Reviews-E1486214.htm).
 
 I quickly broke our agreement and walked away before I got sucked in. The biggest red flag was that the recruiting company lied to me about the terms of the contract before I even started. They promised things which they then refused to put in writing.
 
-I ended up accepting an offer at the software company for 35k less per year but this is a place where the employees have [nothing but good things to say about the company](https://www.glassdoor.com/Reviews/Everbridge-Pasadena-Reviews-EI_IE361320.0,10_IL.11,19_IC1146850.htm).
+I ended up accepting an offer at a software company for 35k less per year but this is a place where the employees [have nothing but good things to say about the company](https://www.glassdoor.com/Reviews/Everbridge-Pasadena-Reviews-EI_IE361320.0,10_IL.11,19_IC1146850.htm).
 
-Having worked at an agency for a dozen years, I feel like I dodged a bullet and am finally going to work at a place that values its employees above all else.
+Having worked at an agency in the past, I feel like I dodged a bullet and am finally going to get to work at a place that values its employees above all else.
 
 ---
 
