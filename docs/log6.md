@@ -101,7 +101,7 @@ Here's how I separated the 4 places that offered me a job.
 **Add Agencies / Production Companies** (Don't work here)
 
 - Digital Publishing Company - No perks (On call; dev, maintenance, & support are jobs of the developer; office job with little down time)
-- Ad Agency with high-volume production work - High salary, high stress, few perks - (Office setup like a boiler room; high value on client / low value on devs; burn-out and low moral is common as well as outright deception by management; no employee loyalty and if the contract doesn't get renewed, management lays off the staff)
+- Ad Agency with high-volume production work - High salary, high stress, few perks - (Office setup like a boiler room; high value on client / low value on devs; burn-out and low moral is common as well as outright deception by those in charge; no employee loyalty and if the contract doesn't get renewed, staff gets laid off)
 
 I almost made the horrible mistake of accepting a position for lots of money only to read [the most horrible company reviews](https://www.glassdoor.com/Reviews/Elephant-Reviews-E1486214.htm).
 
