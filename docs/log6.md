@@ -31,6 +31,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 18. Data Structures - Trees
+### Day 18: August 3, 2019 - Saturday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d18-small.jpg)](assets/images/r6d18.jpg)<br>
+<span class="center bold">Tree Data Structure</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+I learned about the tree data structure and all the terminology around its various elements.
+
+- **parent** - node above
+- **children** - array of nodes "owned" by parent
+- **siblings** - nodes in that same children array
+
+Iterating through a tree is called **traveral**. There are different orders of traversal including:
+
+- Breadth-First - starts at the top and goes horizontal left to right
+
+[![App](assets/images/r6d18a-small.jpg)](assets/images/r6d18a.jpg)<br>
+<span class="center bold">Breadth-First Traversal</span>
+
+- Depth-First - Goes top to bottom, zig zagging from left ot right.
+
+[![App](assets/images/r6d18b-small.jpg)](assets/images/r6d18b.jpg)<br>
+<span class="center bold">Depth-First Traversal</span>
+
+The data in a node can consist of anything (e.g. number, string, array, object, etc.). There are many use-cases where tree data structures are best suited to accomplish a task including many hierarchical relationships.
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+- My GitHub Repo - [Coding Interview Bootcamp](https://github.com/james-priest/coding-interview-bootcamp)
+
+---
 
 ## 17. Interviews & Job Offers
 ### Day 17: August 1, 2019 - Thursday
