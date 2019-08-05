@@ -31,6 +31,104 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+## 19. Data Structures - Tree Traversal
+### Day 19: August 4, 2019 - Sunday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d19-small.jpg)](assets/images/r6d19.jpg)<br>
+<span class="center bold">Tree Traversal</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+Today I learned how to implement the code for both a tree node and a tree class.
+
+The node needs to have an *add* and *remove* method while the Tree class contains the *root* property and the traversal methods.
+
+[![App](assets/images/r6d19a-small.jpg)](assets/images/r6d19a.jpg)<br>
+<span class="center bold">Tree class</span>
+
+```js
+class Node {
+  constructor(data) {
+    this.data = data;
+    this.children = [];
+  }
+  add(data) {
+    const node = new Node(data);
+    this.children.push(node);
+  }
+  remove(data) {
+    this.children = this.children.filter(node => node.data !== data);
+  }
+}
+
+class Tree {
+  constructor() {
+    this.root = null;
+  }
+  traverseBF(fn) {
+    const arr = [this.root];
+
+    while (arr.length) {
+      const node = arr.shift();
+
+      // method #1
+      // for (const child of node.children) {
+      //   arr.push(child);
+      // }
+
+      // method #2
+      // node.children.forEach(child => arr.push(child));
+
+      // method #3
+      arr.push(...node.children);
+
+      fn(node);
+    }
+  }
+  traverseDF(fn) {
+    const flat = [this.root];
+
+    while (flat.length) {
+      const node = flat.shift();
+
+      flat.unshift(...node.children);
+
+      fn(node);
+    }
+  }
+}
+```
+
+The tree can then be created and traversed with the following code.
+
+```js
+const letters = [];
+const t = new Tree();
+t.root = new Node('a');
+t.root.add('b');
+t.root.add('c');
+t.root.children[0].add('d');
+
+t.traverseBF(node => {
+  letters.push(node.data);
+});
+
+console.log(letters); // ['a', 'b', 'c', 'd']
+```
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+- My GitHub Repo - [Coding Interview Bootcamp](https://github.com/james-priest/coding-interview-bootcamp)
+
+---
+
 ## 18. Data Structures - Trees
 ### Day 18: August 3, 2019 - Saturday
 
@@ -51,7 +149,7 @@ I learned about the tree data structure and all the terminology around its vario
 - **children** - array of nodes "owned" by parent
 - **siblings** - nodes in that same children array
 
-Iterating through a tree is called **traveral**. There are different orders of traversal including:
+Iterating through a tree is called **traversal**. There are different orders of traversal including:
 
 - Breadth-First - starts at the top and goes horizontal left to right
 
