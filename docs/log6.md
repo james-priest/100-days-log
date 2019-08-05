@@ -83,7 +83,7 @@ The data in a node can consist of anything (e.g. number, string, array, object, 
 I've been deep in the world of tech interviews for the last 4 weeks. For anyone not familiar with these, here's a rough chronological order.
 
 1. Screener interview with a recruiter (15-30 min)
-2. Behavior interview usually with hiring manager (30-60 min)
+2. Behavioral interview usually with hiring manager (30-60 min)
 3. Technical skills assessment (one of these)
    - timed test (60 min)
    - live coding (60 min)
@@ -124,31 +124,38 @@ For new developers the breakdown may go like this:
 
 The key is not to get discouraged. The reward is well worth the effort once you do find that place which is willing to bring you on board.
 
-Also, it doesn't need to be the best place to work at when you're just starting out. Sometimes we need to work a less than ideal job for 6 months or a year in order to get that experience. Once you have that then companies will often bid against each other to win you over.
+Also, it doesn't need to be your #1 choice of company to work for when you're just getting started in your career. Sometimes we need to work a less than ideal job for 6 months or a year in order to get that experience. Once you gain that experience then companies will often bid against each other to win you over.
 
-For me it was crazy because I had gotten no job offers until the last few days of the last week. Then they all came in within 3 days of each other. Another universal truth is that once one company is interested in you, then they are all interested in you.
+For me it was crazy because I had reached the "offer stage"  until the last few days of the last week. Then they all came in within 3 days of each other. Each company was also willing to raise their offer in response to the previous one. Another universal truth is that once one company is interested in you, then they are all interested in you.
 
-The salaries spanned a broad range with the most moderate (lowest) salaries being offered by the places that are the best to work at. The crumby places will often lure you in with high salary offers only to end up working you to death.
+The salaries spanned a broad range with the most moderate (lowest) salaries being offered by the places that seemed to provide the best work environment. The crumby places will often lure you in with high salary offers only to end up working you to death.
 
 Here's how I separated the 4 places that offered me a job.
 
 **Software companies** (This is where you want to work)
 
-- Software company with a SaaS product - Best employee perks (game room, free snacks, catered lunch, moderate pace, stock options, high value on employees)
-- Services company with e-commerce website - Great perks (game room, fully stocked kitchen, flex time, remote days, top equipment, stock options, high value on employees)
+- **Company 1:** Software company with a SaaS product - Best employee perks (game room, free snacks, catered lunch, moderate pace, stock options, high value on employees)
+- **Company 2:** Services company with e-commerce website - Great perks (game room, fully stocked kitchen, flex time, remote days, top equipment, stock options, high value on employees)
 
-**Add Agencies / Production Companies** (Don't work here)
+**Ad Agencies / Production Companies** (Don't work here)
 
-- Digital Publishing Company - No perks (On call 24/7; dev, maintenance, & support are jobs of the dev team; office job with little down time)
-- Ad Agency with high-volume production work - High salary, high stress, few perks - Office setup like a boiler room; high value on client / low value on devs; burn-out and low morale is common as well as outright deception by those in management according to anonymous postings by employees (see below); no loyalty towards employees and if the contract doesn't get renewed, staff gets laid off.
+- **Company 3:** Digital Publishing Company - No perks (On call 24/7; dev, maintenance, & support are jobs of the dev team; office job with little down time; reasonable pace when publishing system works, high stress when it doesn't)
+- **Company 4:** Ad Agency with high-volume production work - High salary, high stress, few perks - Office setup like a boiler room; high value on client / low value on devs; burn-out and low morale is common as well as outright deception by those in management according to anonymous postings by employees (see below); no loyalty towards employees and if the contract doesn't get renewed, staff gets laid off.
 
 I almost made the horrible mistake of accepting a position for lots of money only to read [the most horrible company reviews](https://www.glassdoor.com/Reviews/Elephant-Reviews-E1486214.htm).
 
-I quickly broke our agreement and walked away before I got sucked in. The biggest red flag was that the recruiting company lied to me about the terms of the contract before I even started. They promised things which they then refused to put in writing once it was time to sign.
+I quickly broke our agreement and walked away before I got sucked in. The biggest red flag was that the [recruiting company](https://www.roberthalf.com/) lied to me about the negotiated terms of the contract. I was specific and clear that I would only sign if we had consensus and agreement on two points:
+
+- The position needs to be a permanent hire
+- The salary needs to be $xxx amount
+
+The recruiters negotiated with the hiring company and then informed me it was agreed upon. They said we had a deal on both points. The hiring company then refused to put any of this in writing but proceeded to give me verbal assurances once it was time to sign. Furthermore, they claimed the recruiters made these commitments without their consent.
 
 I ended up accepting an offer at a software company for 35k less per year but this is a place where the employees [have nothing but good things to say about the company](https://www.glassdoor.com/Reviews/Everbridge-Pasadena-Reviews-EI_IE361320.0,10_IL.11,19_IC1146850.htm).
 
 Having worked at an agency in the past, I feel like I dodged a bullet and am finally going to get to work at a place that values its employees above all else.
+
+The final thought I can leave anyone with is to make sure to do your homework. Read company reviews on Glassdoor and look at LinkedIn profiles of people that work there to see how long they've chosen to stay with that company. That is perhaps one of the most telling indicators of employee contentment.
 
 ---
 
