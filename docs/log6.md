@@ -73,21 +73,21 @@ class Tree {
     this.root = null;
   }
   traverseBF(fn) {
-    const arr = [this.root];
+    const flat = [this.root];
 
-    while (arr.length) {
-      const node = arr.shift();
+    while (flat.length) {
+      const node = flat.shift();
 
       // method #1
       // for (const child of node.children) {
-      //   arr.push(child);
+      //   flat.push(child);
       // }
 
       // method #2
-      // node.children.forEach(child => arr.push(child));
+      // node.children.forEach(child => flat.push(child));
 
       // method #3
-      arr.push(...node.children);
+      flat.push(...node.children);
 
       fn(node);
     }
@@ -146,8 +146,8 @@ I continued on my Udemy course:
 I learned about the tree data structure and all the terminology around its various elements.
 
 - **parent** - node above
-- **children** - array of nodes "owned" by parent
-- **siblings** - nodes in that same children array
+- **children** - flatay of nodes "owned" by parent
+- **siblings** - nodes in that same children flatay
 
 Iterating through a tree is called **traversal**. There are different orders of traversal including:
 
@@ -161,7 +161,7 @@ Iterating through a tree is called **traversal**. There are different orders of 
 [![App](assets/images/r6d18b-small.jpg)](assets/images/r6d18b.jpg)<br>
 <span class="center bold">Depth-First Traversal</span>
 
-The data in a node can consist of anything (e.g. number, string, array, object, etc.). There are many use-cases where tree data structures are best suited to accomplish a task including many hierarchical relationships.
+The data in a node can consist of anything (e.g. number, string, flatay, object, etc.). There are many use-cases where tree data structures are best suited to accomplish a task including many hierarchical relationships.
 
 **Links:**
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
@@ -194,7 +194,7 @@ If you pass each of these then an offer will be made. That process goes like thi
 1. Initial offer made
 2. You accept
 3. Formal offer drawn up
-4. Background check - can consist of: local, state, federal, credit score, online activity, social media, judgements, liens, lawsuits, arrests, bankruptcies, etc.
+4. Background check - can consist of: local, state, federal, credit score, online activity, social media, judgements, liens, lawsuits, flatests, bankruptcies, etc.
 
 If you pass all this then you are officially **hired**!
 
@@ -356,7 +356,7 @@ I continued on my Udemy course:
 
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
 
-This lesson covered creating a class that acts as a wrapper to Array which only allows the following methods.
+This lesson covered creating a class that acts as a wrapper to flatay which only allows the following methods.
 
 - push()
 - pop()
@@ -389,9 +389,9 @@ The lesson started covering data structures and how to create these through code
 [![App](assets/images/r6d13a-small.jpg)](assets/images/r6d13a.jpg)<br>
 <span class="center bold">Queue</span>
 
-Although JavaScript has optimized methods on the Array object to handle data structures, we may be asked to code these in an interview.
+Although JavaScript has optimized methods on the flatay object to handle data structures, we may be asked to code these in an interview.
 
-This can be accomplished by creating a class and wrapping the necessary Array methods.
+This can be accomplished by creating a class and wrapping the necessary flatay methods.
 
 [![App](assets/images/r6d13b-small.jpg)](assets/images/r6d13b.jpg)<br>
 <span class="center bold">Queue Class</span>
@@ -470,7 +470,7 @@ Now we're getting into some more complex algorithms including
 //     [10,  9,  8, 7]]
 
 function matrix(n) {
-  // build nested arrays first
+  // build nested flatays first
   const results = [];
   for (let i = 0; i < n; i++) {
     results.push([]);
@@ -521,7 +521,7 @@ The formula for building recursion consists of a few key steps.
 
 ---
 
-## 10. Array & String Algorithms
+## 10. flatay & String Algorithms
 ### Day 10: July 20, 2019 - Saturday
 
 **Project:** Practice Whiteboarding Algorithms + Data Structures
@@ -574,7 +574,7 @@ I learned the following algorithms & techniques.
 - Reverse a number
 - Palindrome
 - Anagrams
-- Array Chunking
+- flatay Chunking
 - Fizzbuzz
 - Character Maps
 
