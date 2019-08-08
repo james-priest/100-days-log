@@ -32,6 +32,70 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 20. Data Structures - Binary Search Tree
+### Day 20: August 4, 2019 - Sunday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d20-small.jpg)](assets/images/r6d20.jpg)<br>
+<span class="center bold">Binary Search Tree</span>
+
+**Progress:**
+
+I continued on my Udemy course:
+
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
+
+This next set of lessons focused on using Binary Search Trees.
+
+Each node has a value, data, or key and have Left and Right node who's values are less than and greater than the main value, respectively.
+
+[![App](assets/images/r6d20a-small.jpg)](assets/images/r6d20a.jpg)<br>
+<span class="center bold">Binary Search Tree Node</span>
+
+The Node implementation uses recursion for both the *insert* and *contains* methods.
+
+```js
+class Node {
+  constructor(data) {
+    this.data = data;
+    this.left = null;
+    this.right = null;
+  }
+  insert(data) {
+    if (data < this.data && this.left) {
+      this.left.insert(data);
+    } else if (data < this.data) {
+      this.left = new Node(data);
+    } else if (data > this.data && this.right) {
+      this.right.insert(data);
+    } else if (data > this.data) {
+      this.right = new Node(data);
+    }
+  }
+  contains(data) {
+    if (data === this.data) {
+      return this;
+    }
+
+    if (data < this.data && this.left) {
+      return this.left.contains(data);
+    } else if (data > this.data && this.right) {
+      return this.right.contains(data);
+    } else {
+      return null;
+    }
+  }
+}
+```
+
+
+**Links:**
+- [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
+- My GitHub Repo - [Coding Interview Bootcamp](https://github.com/james-priest/coding-interview-bootcamp)
+
+---
+
 ## 19. Data Structures - Tree Traversal
 ### Day 19: August 4, 2019 - Sunday
 
