@@ -32,6 +32,52 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 21. Storybook - Front End Workshop Environment
+### Day 21: August 4, 2019 - Sunday
+
+**Project:** Practice Whiteboarding Algorithms + Data Structures
+
+[![App](assets/images/r6d21-small.jpg)](assets/images/r6d21.jpg)<br>
+<span class="center bold">Storybook</span>
+
+**Progress:**
+
+I set out learn to about an open source tool called [Storybook](https://storybook.js.org).
+
+Storybook is a Front End Workshop Environment that describes itself as a *UI component explorer for frontend developers*.
+
+It's basically a set of packages that can be added to a React, Vue, or Angular application that allows you to develop components in isolation. Each component can then be viewed, catalogued, and tested outside of the constructs of the application these components are built for.
+
+I went through their [Storybook for React Tutorial](https://www.learnstorybook.com/react/en/get-started/) and built out the following.
+
+[![App](assets/images/r6d21a-small.jpg)](assets/images/r6d21a.jpg)<br>
+<span class="center bold">Storybook UI</span>
+
+This tool is implemented right within your React app's code by creating a storybook.js file for each component.  What Storybook provides is.
+
+- Component explorer
+- Styleguide generator
+- Documentation site
+- Playground, Sandbox, & UI library
+
+**Take-away:** This is a great tool to document custom-built components that will be used as part of a larger-scale application.
+
+It creates a UI framework for you to showcase and test each component which is suitable for stakeholders, designers, product managers, etc.
+
+It also allows you to build out edge cases for each state of a given component.
+
+**Links:**
+- [Storybook.js.org](https://storybook.js.org) - Docs, Guide, & Tool
+- Chroma Post - [The Storybook Workflow](https://blog.hichroma.com/the-delightful-storybook-workflow-b322b76fd07) - Dominic Nguyen
+- Chroma Post - [UI component explorers](https://blog.hichroma.com/the-crucial-tool-for-modern-frontend-engineers-fb849b06187a) - Dominic Nguyen
+- Chroma Post - [Component-Driven Development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e) - Tom Coleman
+- BradFrost.com - [a frontend workshop environment](http://bradfrost.com/blog/post/a-frontend-workshop-environment/) - Brad Frost
+- BradFrost.com - [frontend design, react, and a bridge over the great divide](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/) - Brad Frost
+- CSS Tricks Post - [The Great Divide](https://css-tricks.com/the-great-divide/) - Chris Coyier
+- Book - [Atomic Design](http://atomicdesign.bradfrost.com) - Brad Frost
+
+---
+
 ## 20. Data Structures - Binary Search Tree
 ### Day 20: August 4, 2019 - Sunday
 
@@ -88,7 +134,6 @@ class Node {
   }
 }
 ```
-
 
 **Links:**
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
