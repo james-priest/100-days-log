@@ -32,8 +32,41 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 22. New React/Redux Mastery Course
+### Day 22: August 16, 2019 - Friday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d22-small.jpg)](assets/images/r6d22.jpg)<br>
+<span class="center bold">React/Redux course on Udemy</span>
+
+**Progress:**
+
+I started a new React/Redux course that covers the following topics.
+
+| Redux | Hooks | GraphQL | Jest/Enzyme |
+| Redux-Saga | ContextAPI | Stripe | Firebase |
+
+I'm hoping this will help solidify some React/Redux concepts like:
+
+- Use of pure functions for reducers
+- Performance tuning
+- Application & component organization
+
+This first section of this course deals with **React Basics**. It teaches the fundamentals of React while building a simple Rolodex App to demonstrate these concepts.
+
+[![App](assets/images/r6d22a-small.jpg)](assets/images/r6d22a.jpg)<br>
+<span class="center bold">Cats Rolodex</span>
+
+**Links:**
+
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+- My GitHub Repo - [Cats Rolodex](https://github.com/james-priest/cats-rolodex)
+
+---
+
 ## 21. Storybook - Front End Workshop Environment
-### Day 21: August 4, 2019 - Sunday
+### Day 21: August 13, 2019 - Tuesday
 
 **Project:** Practice Whiteboarding Algorithms + Data Structures
 
@@ -79,7 +112,7 @@ It also allows you to build out edge cases for each state of a given component.
 ---
 
 ## 20. Data Structures - Binary Search Tree
-### Day 20: August 4, 2019 - Sunday
+### Day 20: August 8, 2019 - Thursday
 
 **Project:** Practice Whiteboarding Algorithms + Data Structures
 
@@ -630,7 +663,7 @@ The formula for building recursion consists of a few key steps.
 
 ---
 
-## 10. flatay & String Algorithms
+## 10. Array & String Algorithms
 ### Day 10: July 20, 2019 - Saturday
 
 **Project:** Practice Whiteboarding Algorithms + Data Structures
