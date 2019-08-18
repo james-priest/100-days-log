@@ -32,6 +32,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 23. Cats Rolodex Mini-App
+### Day 23: August 17, 2019 - Saturday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d23-small.jpg)](assets/images/r6d23.jpg)<br>
+<span class="center bold">Cats Rolodex Mini App</span>
+
+**Progress:**
+
+I completed the first mini app for the **React Basics** section.
+
+This simple app does two separate async API calls and displays a list of names and images received from the response JSON files.
+
+This was then deployed to GitHub Pages using the *gh-pages* CLI.
+
+The app also uses
+
+- props
+- state
+- lifecycle methods
+
+[![App](assets/images/r6d23a-small.jpg)](assets/images/r6d23a.jpg)<br>
+<span class="center bold">VS Code</span>
+
+**Links:**
+- Live Demo - [Cats Rolodex](https://james-priest.github.io/cats-rolodex/)
+- My GitHub Repo - [Cats Rolodex Repo](https://github.com/james-priest/cats-rolodex)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 22. New React/Redux Mastery Course
 ### Day 22: August 16, 2019 - Friday
 
@@ -59,7 +91,6 @@ This first section of this course deals with **React Basics**. It teaches the fu
 <span class="center bold">Cats Rolodex</span>
 
 **Links:**
-
 - [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
 - My GitHub Repo - [Cats Rolodex](https://github.com/james-priest/cats-rolodex)
 
