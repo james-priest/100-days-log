@@ -32,6 +32,31 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 24. E-commerce React Site
+### Day 24: August 19, 2019 - Monday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d24-small.jpg)](assets/images/r6d24.jpg)<br>
+<span class="center bold">E-commerce site Mock-up</span>
+
+**Progress:**
+
+Next I'm starting the large project for this React course. It has us build a complete e-commerce site with the following:
+
+- Authentication
+- Payment processing
+- Backend data store
+
+[![App](assets/images/r6d24a-small.jpg)](assets/images/r6d24a.jpg)<br>
+<span class="center bold">Basic mockup code</span>
+
+**Links:**
+- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 23. Cats Rolodex Mini-App
 ### Day 23: August 17, 2019 - Saturday
 
