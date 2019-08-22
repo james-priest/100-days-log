@@ -32,6 +32,41 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 25. Firebase Authentication
+### Day 25: August 20, 2019 - Tuesday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d25-small.jpg)](assets/images/r6d25.jpg)<br>
+<span class="center bold">Firebase</span>
+
+**Progress:**
+
+Today I started learning about Google's Firebase platform.  It provides:
+
+- **Authentication** - OAuth2 integration with Google, Facebook, GitHub, etc.
+- **Database** - Firestore NoSQL database solution
+- **Storage** - Suitable for assets, images, & video
+- **Hosting** - Site Hosting
+- **Functions** - Serverless functions
+- **ML Kit** - Machine Learning services
+
+It basically provides backend infrastructure for your Web, Android, and iOS apps. It's free to start and has good documentation to get up to speed with.
+
+[![App](assets/images/r6d25a-small.jpg)](assets/images/r6d25a.jpg)<br>
+<span class="center bold">Firebase UI</span>
+
+The next phase of my React course had me setup and integrate Firebase Authentication.
+
+[![App](assets/images/r6d25b-small.jpg)](assets/images/r6d25b.jpg)<br>
+<span class="center bold">Integrated OAuth2 Authentication</span>
+
+**Links:**
+- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 24. E-commerce React Site
 ### Day 24: August 19, 2019 - Monday
 
@@ -344,8 +379,8 @@ I continued on my Udemy course:
 I learned about the tree data structure and all the terminology around its various elements.
 
 - **parent** - node above
-- **children** - flatay of nodes "owned" by parent
-- **siblings** - nodes in that same children flatay
+- **children** - array of nodes "owned" by parent
+- **siblings** - nodes in that same children array
 
 Iterating through a tree is called **traversal**. There are different orders of traversal including:
 
@@ -359,7 +394,7 @@ Iterating through a tree is called **traversal**. There are different orders of 
 [![App](assets/images/r6d18b-small.jpg)](assets/images/r6d18b.jpg)<br>
 <span class="center bold">Depth-First Traversal</span>
 
-The data in a node can consist of anything (e.g. number, string, flatay, object, etc.). There are many use-cases where tree data structures are best suited to accomplish a task including many hierarchical relationships.
+The data in a node can consist of anything (e.g. number, string, array, object, etc.). There are many use-cases where tree data structures are best suited to accomplish a task including many hierarchical relationships.
 
 **Links:**
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider
@@ -392,7 +427,7 @@ If you pass each of these then an offer will be made. That process goes like thi
 1. Initial offer made
 2. You accept
 3. Formal offer drawn up
-4. Background check - can consist of: local, state, federal, credit score, online activity, social media, judgements, liens, lawsuits, flatests, bankruptcies, etc.
+4. Background check - can consist of: local, state, federal, credit score, online activity, social media, judgments, liens, lawsuits, arrests, bankruptcies, etc.
 
 If you pass all this then you are officially **hired**!
 
@@ -554,7 +589,7 @@ I continued on my Udemy course:
 
 - [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider.
 
-This lesson covered creating a class that acts as a wrapper to flatay which only allows the following methods.
+This lesson covered creating a class that acts as a wrapper to array which only allows the following methods.
 
 - push()
 - pop()
@@ -587,9 +622,9 @@ The lesson started covering data structures and how to create these through code
 [![App](assets/images/r6d13a-small.jpg)](assets/images/r6d13a.jpg)<br>
 <span class="center bold">Queue</span>
 
-Although JavaScript has optimized methods on the flatay object to handle data structures, we may be asked to code these in an interview.
+Although JavaScript has optimized methods on the array object to handle data structures, we may be asked to code these in an interview.
 
-This can be accomplished by creating a class and wrapping the necessary flatay methods.
+This can be accomplished by creating a class and wrapping the necessary array methods.
 
 [![App](assets/images/r6d13b-small.jpg)](assets/images/r6d13b.jpg)<br>
 <span class="center bold">Queue Class</span>
@@ -668,7 +703,7 @@ Now we're getting into some more complex algorithms including
 //     [10,  9,  8, 7]]
 
 function matrix(n) {
-  // build nested flatays first
+  // build nested arrays first
   const results = [];
   for (let i = 0; i < n; i++) {
     results.push([]);
@@ -772,7 +807,7 @@ I learned the following algorithms & techniques.
 - Reverse a number
 - Palindrome
 - Anagrams
-- flatay Chunking
+- array Chunking
 - Fizzbuzz
 - Character Maps
 
