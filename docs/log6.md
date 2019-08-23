@@ -32,6 +32,42 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 26. Firebase Firestore
+### Day 26: August 22, 2019 - Thursday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d26-small.jpg)](assets/images/r6d26.jpg)<br>
+<span class="center bold">Firebase Firestore</span>
+
+**Progress:**
+
+Today I implemented two forms of Firebase Authentication:
+
+- Sign In with Google (OAuth)
+- Email & Password Sign In
+
+I also started working with Firestore which is a NoSQL database that allows saving of:
+
+- Documents
+- Collections
+
+Once a user is authenticated React updates our Firestore database with that user record.
+
+[![App](assets/images/r6d26a-small.jpg)](assets/images/r6d26a.jpg)<br>
+<span class="center bold">Sign In and Sign Up forms</span>
+
+Here's a sample of the authentication and database code.
+
+[![App](assets/images/r6d26b-small.jpg)](assets/images/r6d26b.jpg)<br>
+<span class="center bold">Auth & Database code</span>
+
+**Links:**
+- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 25. Firebase Authentication
 ### Day 25: August 20, 2019 - Tuesday
 
