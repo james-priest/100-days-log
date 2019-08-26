@@ -32,6 +32,41 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 27. Add Redux Boilerplate
+### Day 27: August 24, 2019 - Saturday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d27-small.jpg)](assets/images/r6d27.jpg)<br>
+<span class="center bold">Redux Flow</span>
+
+**Progress:**
+
+This set of lessons was all about setting up Redux boilerplate into an existing app.
+
+Middleware was set up for Redux logging.
+
+[![App](assets/images/r6d27b-small.jpg)](assets/images/r6d27b.jpg)<br>
+<span class="center bold">Redux Logger</span>
+
+The nice thing that this lesson focused on was proper organization of items for large-scale applications.
+
+It included:
+
+- Types & constants
+- Action creators
+- Reducers
+- Middleware
+
+[![App](assets/images/r6d27a-small.jpg)](assets/images/r6d27a.jpg)<br>
+<span class="center bold">VS Code</span>
+
+**Links:**
+- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 26. Firebase Firestore
 ### Day 26: August 22, 2019 - Thursday
 
