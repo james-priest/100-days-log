@@ -32,6 +32,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 28. Display Product Items
+### Day 28: August 26, 2019 - Monday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d28-small.jpg)](assets/images/r6d28.jpg)<br>
+<span class="center bold">Product Items</span>
+
+**Progress:**
+
+This lesson dealt with setting up the display of products and creating buttons on items to add them to the shopping cart.
+
+[![App](assets/images/r6d28a-small.jpg)](assets/images/r6d28a.jpg)<br>
+<span class="center bold">Add Item to cart</span>
+
+**Links:**
+- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 27. Add Redux Boilerplate
 ### Day 27: August 24, 2019 - Saturday
 
