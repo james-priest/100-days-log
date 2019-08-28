@@ -32,6 +32,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 29. Add Items to Cart
+### Day 29: August 27, 2019 - Tuesday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d29-small.jpg)](assets/images/r6d29.jpg)<br>
+<span class="center bold">Redux Logger</span>
+
+**Progress:**
+
+In this lesson we learned how to add items to our Redux shopping cart.
+
+[![App](assets/images/r6d29a-small.jpg)](assets/images/r6d29a.jpg)<br>
+<span class="center bold">Items added to cart</span>
+
+This is displayed in our Redux logger.
+
+Multiple items are handled with a cart utility function.
+
+[![App](assets/images/r6d29b-small.jpg)](assets/images/r6d29b.jpg)<br>
+<span class="center bold">Utility function in reducer</span>
+
+**Links:**
+- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 28. Display Product Items
 ### Day 28: August 26, 2019 - Monday
 
