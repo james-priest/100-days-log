@@ -32,6 +32,29 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 30. Cart Display
+### Day 30: August 28, 2019 - Wednesday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d30-small.jpg)](assets/images/r6d30.jpg)<br>
+<span class="center bold">Cart Display</span>
+
+**Progress:**
+
+This lesson dealt with creating the CartItem component to display products added to the cart.
+
+It uses the connect() method of 'react-redux' to access the store.
+
+[![App](assets/images/r6d30a-small.jpg)](assets/images/r6d30a.jpg)<br>
+<span class="center bold">Card Display with Redux store</span>
+
+**Links:**
+- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 29. Add Items to Cart
 ### Day 29: August 27, 2019 - Tuesday
 
