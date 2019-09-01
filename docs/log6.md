@@ -32,6 +32,81 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 31. Checkout Page
+### Day 31: August 30, 2019 - Friday
+
+**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+[![App](assets/images/r6d31-small.jpg)](assets/images/r6d31.jpg)<br>
+<span class="center bold">Checkout Page</span>
+
+**Progress:**
+
+In this lesson I built the cart page which allows the quantity to be updated and also allows removing of items from the cart.
+
+This was done with
+
+- Redux Actions
+- Redux Reducers
+- Utility functions
+
+The cartItem component looks like this.
+
+```jsx
+import React from 'react';
+import { connect } from 'react-redux';
+
+import {
+  addItem,
+  removeItem,
+  clearItemFromCart
+} from '../../redux/cart/cart.actions';
+
+import './checkout-item.styles.scss';
+
+const CheckoutItem = ({ cartItem, clearItem, addItem, removeItem }) => {
+  const { name, imageUrl, price, quantity } = cartItem;
+  return (
+    <div className="checkout-item">
+      <div className="image-container">
+        <img src={imageUrl} alt="item" />
+      </div>
+      <span className="name">{name}</span>
+      <span className="quantity">
+        <div className="arrow" onClick={() => removeItem(cartItem)}>
+          &#10094;
+        </div>
+        <span className="value">{quantity}</span>
+        <div className="arrow" onClick={() => addItem(cartItem)}>
+          &#10095;
+        </div>
+      </span>
+      <span className="price">{price}</span>
+      <span className="remove-button" onClick={() => clearItem(cartItem)}>
+        &#10005;
+      </span>
+    </div>
+  );
+};
+
+const mapDispatchToProps = dispatch => ({
+  clearItem: item => dispatch(clearItemFromCart(item)),
+  addItem: item => dispatch(addItem(item)),
+  removeItem: item => dispatch(removeItem(item))
+});
+
+export default connect(
+  null,
+  mapDispatchToProps
+)(CheckoutItem);
+```
+
+**Links:**
+- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
+- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+
+---
+
 ## 30. Cart Display
 ### Day 30: August 28, 2019 - Wednesday
 
