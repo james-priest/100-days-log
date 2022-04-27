@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/james-priest/100-days-log#readme",
   "devDependencies": {
-    "grunt": "^1.0.4",
+    "grunt": "^1.5.2",
     "grunt-contrib-clean": "^1.1.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-responsive-images": "^1.10.1"
